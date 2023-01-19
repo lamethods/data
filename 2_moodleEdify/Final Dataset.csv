@@ -1,0 +1,327 @@
+ApplicantName,CGPA,AttemptCount,RemoteStudent,Probation,HighRisk,TermExceeded,AtRisk,AtRiskSSC,OtherModules,PlagiarismHistory,CW1,CW2,ESE,Online C,Online O,Played,Paused,Likes,Segment,Result
+Student 1,Very Good,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Very Good,Excellent,3,1,2,2,Pass
+Student 2,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Poor,Poor,1,0,0,0,Pass
+Student 3,Fair,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fail,Fair,Very Good,2,2,1,1,Pass
+Student 4,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Very Good,Fair,3,1,1,2,Pass
+Student 5,Fair,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Adequate,Fair,Very Good,8,13,1,7,Pass
+Student 6,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Adequate,Excellent,Very Good,5,3,0,4,Pass
+Student 7,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Adequate,Poor,Very Good,5,7,1,4,Pass
+Student 8,Fair,Medium,No,No,No,No,Yes,No,Low,Low,Fail,Fail,Adequate,Fair,Poor,1,7,2,0,Pass
+Student 9,Adequate,Medium,No,Yes,No,No,Yes,No,Medium,Low,Very Good,Very Good,Fail,Fair,Good,1,1,1,0,Pass
+Student 10,Adequate,Low,No,No,No,No,No,No,High,Low,Very Good,Very Good,Fair,Excellent,Excellent,1,0,1,0,Pass
+Student 11,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Good,Poor,Adequate,1,1,1,0,Pass
+Student 12,Adequate,Low,No,Yes,Yes,No,No,No,Medium,Low,Good,Good,Adequate,Excellent,Very Good,6,7,0,5,Pass
+Student 13,Fair,Low,No,No,No,No,No,No,High,Low,Very Good,Very Good,Fair,Good,Adequate,1,0,1,0,Pass
+Student 14,Good,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Poor,Good,3,0,1,2,Pass
+Student 15,Fair,Low,No,No,No,No,Yes,No,High,Low,Fair,Fair,Fair,Good,Fair,1,0,1,0,Pass
+Student 16,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Good,Fair,1,0,0,0,Pass
+Student 17,Excellent,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Adequate,Excellent,Good,1,0,0,0,Pass
+Student 18,Very Good,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Good,Good,1,6,1,0,Pass
+Student 19,Adequate,Low,No,No,No,No,No,No,Low,Low,Fair,Fair,Adequate,Very Good,Good,1,4,1,0,Pass
+Student 20,Adequate,Medium,No,No,No,No,Yes,Yes,High,Low,Excellent,Excellent,Very Good,Fair,Very Good,1,3,1,0,Pass
+Student 21,Fair,Low,No,No,No,No,No,No,Low,Low,Fair,Fair,Fair,Very Good,Fair,1,4,0,0,Pass
+Student 22,Excellent,Low,No,No,No,No,No,No,High,Low,Excellent,Excellent,Good,Very Good,Very Good,1,5,1,0,Pass
+Student 23,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Fail,Good,Very Good,1,5,1,0,Pass
+Student 24,Adequate,Medium,No,No,No,No,Yes,No,Low,Medium,Fair,Fair,Fail,Excellent,Excellent,1,5,1,0,Pass
+Student 25,Poor,Medium,No,Yes,Yes,No,Yes,Yes,Low,Low,Very Good,Very Good,Good,Excellent,Very Good,1,2,0,0,Pass
+Student 26,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Adequate,Good,Poor,2,0,2,1,Fail
+Student 27,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Very Good,Excellent,1,0,0,0,Pass
+Student 28,Adequate,Low,No,No,No,No,No,No,Medium,Low,Excellent,Excellent,Adequate,Adequate,Adequate,1,1,0,0,Pass
+Student 29,Poor,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Fail,Very Good,Good,1,1,1,0,Pass
+Student 30,Adequate,Medium,No,No,No,No,Yes,No,High,Low,Adequate,Adequate,Fail,Very Good,Very Good,5,0,1,4,Pass
+Student 31,Fair,Low,No,No,No,No,No,No,High,Low,Very Good,Very Good,Very Good,Very Good,Excellent,2,0,0,1,Pass
+Student 32,Excellent,Low,No,No,No,No,No,No,High,Low,Good,Good,Fail,Excellent,Very Good,1,0,0,0,Pass
+Student 33,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Fair,1,0,1,0,Pass
+Student 34,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Good,Adequate,1,0,1,0,Pass
+Student 35,Fair,Low,No,No,No,No,No,No,Low,Low,Fair,Fair,Good,Adequate,Good,2,0,0,1,Pass
+Student 36,Adequate,High,No,No,Yes,No,No,No,High,Low,Fair,Fair,Adequate,Excellent,Very Good,1,0,0,0,Pass
+Student 37,Adequate,Low,No,No,No,No,No,No,Medium,Low,Excellent,Excellent,Very Good,Good,Very Good,1,0,1,0,Pass
+Student 38,Adequate,Medium,No,No,Yes,No,Yes,No,Low,Low,Good,Good,Adequate,Very Good,Fair,1,0,1,0,Pass
+Student 39,Adequate,Medium,No,No,No,No,Yes,No,Low,Low,Very Good,Very Good,Adequate,Fair,Very Good,1,0,0,0,Pass
+Student 40,Fair,Low,No,No,No,No,No,No,Low,Low,Very Good,Very Good,Very Good,Very Good,Very Good,1,0,0,0,Pass
+Student 41,Fair,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Adequate,Very Good,Good,1,0,0,0,Pass
+Student 42,Adequate,Low,No,No,No,No,Yes,Yes,High,Low,Adequate,Adequate,Fail,Excellent,Excellent,3,1,2,2,Pass
+Student 43,Adequate,Medium,No,No,No,No,Yes,No,Medium,Low,Fair,Fair,Fail,Very Good,Excellent,1,0,1,0,Pass
+Student 44,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Poor,Good,2,2,1,1,Pass
+Student 45,Good,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Excellent,Very Good,3,1,1,2,Pass
+Student 46,Poor,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Good,Adequate,Adequate,8,13,1,7,Pass
+Student 47,Adequate,Low,No,No,No,No,No,No,High,Low,Good,Good,Fail,Good,Very Good,5,3,0,4,Pass
+Student 48,Adequate,Low,No,No,No,No,No,No,High,Low,Excellent,Excellent,Very Good,Very Good,Very Good,5,7,1,4,Pass
+Student 49,Adequate,Medium,No,No,No,No,Yes,No,Medium,Low,Very Good,Very Good,Adequate,Excellent,Very Good,1,7,2,0,Pass
+Student 50,Very Good,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Adequate,Very Good,Excellent,1,1,0,0,Pass
+Student 51,Very Good,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Adequate,Fair,Very Good,1,0,0,0,Pass
+Student 52,Good,Low,No,No,No,No,No,No,High,Low,Good,Fair,Fair,Adequate,Poor,1,1,1,0,Pass
+Student 53,Excellent,Low,No,No,No,No,No,No,High,Low,Excellent,Excellent,Very Good,Excellent,Adequate,6,7,1,5,Pass
+Student 54,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fair,Fair,Poor,1,0,1,0,Pass
+Student 55,Adequate,Low,No,No,No,No,Yes,No,High,Low,Very Good,Good,Fair,Good,Poor,3,0,1,2,Fail
+Student 56,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Very Good,Fair,Poor,1,0,1,0,Fail
+Student 57,Fair,Low,No,No,No,No,No,No,Medium,Low,Good,Fair,Fail,Good,Poor,1,0,1,0,Pass
+Student 58,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Good,Fair,1,0,1,0,Pass
+Student 59,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Good,Poor,1,6,0,0,Pass
+Student 60,Adequate,Low,No,No,Yes,No,Yes,No,High,Low,Fair,Fair,Good,Very Good,Good,1,4,0,0,Pass
+Student 61,Good,Low,No,No,No,No,No,No,Medium,Low,Excellent,Fair,Fair,Good,Fair,1,3,1,0,Pass
+Student 62,Fair,Low,No,No,No,No,No,No,High,Low,Very Good,Good,Excellent,Very Good,Very Good,1,4,0,0,Fail
+Student 63,Good,Low,No,No,No,No,No,No,High,Low,Very Good,Good,Fail,Good,Poor,1,5,1,0,Pass
+Student 64,Adequate,Low,No,No,No,No,Yes,No,High,Low,Fair,Very Good,Adequate,Good,Adequate,1,5,1,0,Pass
+Student 65,Good,Low,No,No,No,No,No,No,High,Low,Excellent,Very Good,Very Good,Excellent,Very Good,1,5,0,0,Pass
+Student 66,Fair,Low,No,No,No,No,No,No,High,Low,Very Good,Very Good,Fail,Fair,Fair,1,2,0,0,Pass
+Student 67,Very Good,Low,No,No,No,No,No,No,High,Low,Excellent,Excellent,Excellent,Very Good,Excellent,2,0,2,1,Pass
+Student 68,Good,Low,No,No,No,No,No,No,High,Low,Good,Good,Fail,Good,Good,1,0,0,0,Pass
+Student 69,Adequate,Low,No,No,No,No,Yes,No,High,Low,Very Good,Very Good,Fail,Good,Adequate,1,1,0,0,Pass
+Student 70,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Good,Fair,Fail,Good,Fair,1,1,0,0,Pass
+Student 71,Adequate,Low,No,No,No,No,Yes,No,High,Low,Good,Good,Fail,Fair,Fair,5,0,1,4,Pass
+Student 72,Adequate,Low,No,No,No,No,No,No,High,Low,Very Good,Fair,Fail,Good,Good,2,0,1,1,Pass
+Student 73,Good,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Adequate,Adequate,Fair,1,0,0,0,Pass
+Student 74,Adequate,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Poor,Good,1,0,1,0,Pass
+Student 75,Good,Low,No,No,No,No,No,No,High,Low,Good,Fair,Fail,Good,Fair,1,0,1,0,Pass
+Student 76,Very Good,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Very Good,Fair,Good,2,0,0,1,Pass
+Student 77,Adequate,Low,No,No,Yes,No,Yes,Yes,High,Low,Fail,Fail,Excellent,Good,Poor,1,0,1,0,Pass
+Student 78,Adequate,Low,No,No,No,No,No,No,High,Low,Fair,Good,Fail,Poor,Good,1,0,0,0,Pass
+Student 79,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Good,Adequate,Good,Good,1,0,1,0,Pass
+Student 80,Very Good,Low,No,No,No,No,No,No,High,Low,Good,Excellent,Adequate,Excellent,Fair,1,0,1,0,Fail
+Student 81,Adequate,Low,No,No,Yes,No,No,No,High,Low,Adequate,Fair,Adequate,Good,Fair,1,0,0,0,Pass
+Student 82,Adequate,Low,No,No,Yes,No,No,No,High,Low,Fair,Very Good,Fail,Fair,Good,1,0,1,0,Pass
+Student 83,Fair,Low,No,No,No,No,No,No,High,Low,Good,Adequate,Adequate,Good,Good,3,1,2,2,Pass
+Student 84,Excellent,Low,No,No,No,No,No,No,High,Low,Very Good,Excellent,Fair,Good,Fair,1,0,1,0,Pass
+Student 85,Good,Low,No,No,No,No,No,No,High,Low,Adequate,Good,Fail,Good,Fair,2,2,1,1,Pass
+Student 86,Very Good,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Fail,Very Good,Adequate,3,1,1,2,Pass
+Student 87,Fair,Low,No,No,No,Yes,No,No,Medium,Low,Fair,Good,Fail,Good,Fair,8,13,0,7,Fail
+Student 88,Adequate,Low,No,No,No,No,Yes,No,High,Low,Good,Very Good,Fail,Good,Very Good,5,3,0,4,Pass
+Student 89,Adequate,Low,No,No,No,Yes,No,No,Medium,Low,Good,Very Good,Fail,Very Good,Adequate,5,7,1,4,Pass
+Student 90,Fair,Low,No,Yes,No,No,Yes,No,Medium,Low,Fail,Fail,Very Good,Good,Fair,1,7,2,0,Pass
+Student 91,Adequate,High,No,Yes,Yes,No,Yes,No,Low,Low,Fail,Fail,Very Good,Fair,Very Good,1,1,0,0,Pass
+Student 92,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Very Good,Good,Very Good,1,0,1,0,Pass
+Student 93,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Good,Poor,Poor,1,1,1,0,Pass
+Student 94,Good,Medium,No,No,No,No,Yes,No,High,Low,Fail,Fail,Good,Poor,Good,6,7,0,5,Pass
+Student 95,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Good,Poor,Poor,1,0,1,0,Pass
+Student 96,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Good,Good,Good,3,0,1,2,Pass
+Student 97,Good,Low,No,Yes,No,No,Yes,No,High,Low,Fail,Fail,Good,Very Good,Good,1,0,1,0,Pass
+Student 98,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Good,Poor,1,0,0,0,Pass
+Student 99,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fair,Excellent,Very Good,1,0,1,0,Pass
+Student 100,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Good,Poor,1,6,1,0,Fail
+Student 101,Fair,Low,No,No,Yes,No,Yes,No,High,Low,Fail,Fail,Fair,Good,Fair,1,4,1,0,Pass
+Student 102,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Very Good,Good,1,3,1,0,Pass
+Student 103,Good,Medium,No,No,No,No,Yes,No,High,Low,Fail,Fail,Fair,Fair,Adequate,1,4,1,0,Pass
+Student 104,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Excellent,Very Good,1,5,1,0,Pass
+Student 105,Good,Low,No,No,No,No,Yes,No,High,Low,Fail,Fail,Fair,Poor,Excellent,1,5,1,0,Pass
+Student 106,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Excellent,Excellent,1,5,1,0,Pass
+Student 107,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Very Good,Very Good,1,2,1,0,Pass
+Student 108,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Good,Good,2,0,2,1,Pass
+Student 109,Excellent,Medium,No,Yes,No,No,Yes,No,Medium,Low,Fail,Fail,Fair,Very Good,Very Good,1,0,1,0,Pass
+Student 110,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Fair,Good,1,1,0,0,Pass
+Student 111,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Very Good,Very Good,1,1,0,0,Pass
+Student 112,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Good,Good,5,0,1,4,Fail
+Student 113,Adequate,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fair,Excellent,Fair,2,0,0,1,Fail
+Student 114,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Excellent,1,0,1,0,Pass
+Student 115,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Very Good,1,0,1,0,Pass
+Student 116,Adequate,Low,No,No,No,No,Yes,Yes,High,Low,Fail,Fail,Adequate,Fair,Fair,1,0,0,0,Pass
+Student 117,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Poor,2,0,0,1,Fail
+Student 118,Adequate,Low,No,No,Yes,No,No,No,High,Low,Fail,Fail,Adequate,Good,Good,1,0,1,0,Fail
+Student 119,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Good,1,0,1,0,Pass
+Student 120,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Fair,1,0,0,0,Pass
+Student 121,Fair,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Adequate,Very Good,Good,1,0,1,0,Pass
+Student 122,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Poor,Very Good,1,0,0,0,Pass
+Student 123,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Excellent,1,0,0,0,Pass
+Student 124,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Very Good,3,1,2,2,Pass
+Student 125,Adequate,Low,No,No,No,No,No,No,High,Low,Good,Fair,Adequate,Good,Good,1,0,0,0,Fail
+Student 126,Good,Low,No,No,No,Yes,No,No,High,Low,Fair,Fair,Adequate,Good,Good,2,2,1,1,Pass
+Student 127,Fair,Low,No,No,No,Yes,No,No,Medium,Low,Fair,Very Good,Excellent,Very Good,Very Good,3,1,1,2,Fail
+Student 128,Fair,Low,No,No,No,No,No,No,High,Low,Good,Adequate,Adequate,Very Good,Good,8,13,0,7,Pass
+Student 129,Adequate,Low,No,No,No,No,Yes,No,High,Low,Good,Fair,Fair,Excellent,Good,5,3,0,4,Pass
+Student 130,Good,Low,No,No,No,No,No,No,High,Low,Fail,Adequate,Good,Fair,Good,5,7,1,4,Pass
+Student 131,Good,Low,No,No,No,No,No,No,High,Low,Fair,Excellent,Good,Excellent,Very Good,1,7,2,0,Fail
+Student 132,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fair,Very Good,Good,Very Good,Very Good,1,1,0,0,Pass
+Student 133,Fair,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Adequate,Good,Good,1,0,0,0,Fail
+Student 134,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Adequate,Fair,Very Good,Fair,1,1,1,0,Pass
+Student 135,Fair,Low,No,No,No,No,No,No,Low,Low,Very Good,Very Good,Adequate,Good,Excellent,6,7,0,5,Pass
+Student 136,Good,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fail,Good,Very Good,1,0,1,0,Pass
+Student 137,Adequate,Medium,No,No,Yes,No,Yes,No,Low,Low,Good,Excellent,Adequate,Good,Poor,3,0,1,2,Fail
+Student 138,Fair,Low,No,No,No,No,No,No,Medium,Low,Fair,Very Good,Good,Good,Good,1,0,1,0,Pass
+Student 139,Fair,Low,No,No,No,No,Yes,No,Low,Low,Fair,Good,Adequate,Good,Good,1,0,0,0,Pass
+Student 140,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Adequate,Very Good,Good,1,0,0,0,Pass
+Student 141,Fair,Low,No,No,No,No,No,No,High,Low,Adequate,Fair,Fail,Good,Good,1,6,0,0,Pass
+Student 142,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Fail,Good,Poor,1,4,0,0,Pass
+Student 143,Good,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Fail,Very Good,Good,1,3,1,0,Pass
+Student 144,Fair,Low,No,No,No,No,Yes,No,Low,Low,Very Good,Very Good,Very Good,Good,Very Good,1,4,0,0,Pass
+Student 145,Very Good,Low,No,No,No,No,No,No,Low,Low,Adequate,Excellent,Fair,Good,Very Good,1,5,0,0,Fail
+Student 146,Good,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Adequate,Good,Poor,1,5,0,0,Pass
+Student 147,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Adequate,Good,Fair,1,5,0,0,Pass
+Student 148,Adequate,Low,No,No,Yes,No,Yes,Yes,High,Low,Adequate,Adequate,Adequate,Good,Poor,1,2,0,0,Pass
+Student 149,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Good,2,0,2,1,Pass
+Student 150,Adequate,Low,No,No,No,No,No,No,High,Low,Very Good,Very Good,Fail,Good,Fair,1,0,0,0,Pass
+Student 151,Adequate,High,No,No,Yes,No,Yes,No,High,Low,Very Good,Very Good,Fair,Very Good,Very Good,1,1,0,0,Pass
+Student 152,Adequate,Medium,No,No,No,No,Yes,No,Medium,Low,Adequate,Adequate,Good,Good,Poor,1,1,0,0,Pass
+Student 153,Good,Low,No,No,No,No,No,No,High,Low,Good,Good,Adequate,Good,Adequate,5,0,1,4,Pass
+Student 154,Adequate,Low,No,No,No,No,Yes,Yes,High,Low,Very Good,Very Good,Fair,Excellent,Very Good,2,0,0,1,Pass
+Student 155,Adequate,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Fail,Fair,Fair,1,0,0,0,Pass
+Student 156,Adequate,Low,No,No,No,No,No,No,Low,Low,Fair,Fair,Fair,Very Good,Excellent,1,0,0,0,Pass
+Student 157,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Fair,Adequate,Good,Good,1,0,0,0,Pass
+Student 158,Adequate,Low,No,No,No,No,Yes,Yes,Medium,Low,Adequate,Adequate,Adequate,Good,Adequate,2,0,0,1,Pass
+Student 159,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Very Good,Very Good,1,0,0,0,Pass
+Student 160,Adequate,Low,No,No,No,No,No,No,High,Low,Good,Fair,Adequate,Good,Good,1,0,0,0,Pass
+Student 161,Adequate,Low,No,No,No,No,Yes,No,Low,Low,Fair,Fair,Adequate,Good,Good,1,0,0,0,Pass
+Student 162,Adequate,Low,No,No,No,No,No,No,High,Low,Fair,Very Good,Excellent,Very Good,Very Good,1,0,0,0,Pass
+Student 163,Good,Low,No,No,No,No,No,No,Low,Low,Good,Adequate,Adequate,Very Good,Good,1,0,0,0,Pass
+Student 164,Adequate,Low,No,No,No,No,No,No,High,Low,Good,Fair,Fair,Excellent,Good,1,0,0,0,Pass
+Student 165,Very Good,Low,No,No,No,No,Yes,No,Low,Low,Fail,Adequate,Good,Fair,Good,3,1,2,2,Pass
+Student 166,Fair,Low,No,No,No,No,No,No,Low,Low,Fair,Very Good,Good,Excellent,Very Good,1,0,0,0,Pass
+Student 167,Fair,Low,No,No,No,No,No,No,High,Low,Good,Very Good,Adequate,Very Good,Very Good,2,2,1,1,Pass
+Student 168,Adequate,Low,No,No,No,No,No,No,Low,Low,Fair,Adequate,Fair,Good,Good,3,1,1,2,Pass
+Student 169,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Very Good,Very Good,Adequate,Very Good,Fair,8,13,0,7,Fail
+Student 170,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Very Good,Excellent,Good,Good,Excellent,5,3,0,4,Pass
+Student 171,Adequate,Low,No,No,No,No,Yes,No,High,Low,Good,Excellent,Adequate,Good,Very Good,5,7,1,4,Pass
+Student 172,Adequate,Low,No,No,No,No,No,No,High,Low,Fair,Very Good,Adequate,Good,Poor,1,7,2,0,Pass
+Student 173,Fair,Low,No,No,No,No,Yes,No,High,Low,Fair,Good,Adequate,Good,Good,1,1,0,0,Pass
+Student 174,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Adequate,Fail,Good,Good,1,0,0,0,Pass
+Student 175,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Fair,Fail,Very Good,Good,1,1,1,0,Pass
+Student 176,Fair,Low,No,No,No,No,Yes,No,Low,Low,Adequate,Adequate,Fair,Good,Good,6,7,0,5,Fail
+Student 177,Adequate,Low,No,No,No,No,Yes,No,Low,Low,Good,Very Good,Fail,Good,Poor,1,0,1,0,Pass
+Student 178,Adequate,Low,No,No,No,No,Yes,No,Low,Low,Very Good,Very Good,Very Good,Very Good,Good,3,0,1,2,Pass
+Student 179,Very Good,Low,No,No,No,No,No,No,Low,Low,Adequate,Excellent,Fair,Good,Very Good,1,0,1,0,Pass
+Student 180,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Good,Very Good,Adequate,Good,Very Good,1,0,0,0,Pass
+Student 181,Fair,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fair,Excellent,Poor,1,0,0,0,Pass
+Student 182,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Fair,Fail,Good,Poor,1,6,0,0,Pass
+Student 183,Fair,Low,No,No,No,No,No,No,Low,Low,Adequate,Good,Fail,Very Good,Poor,1,4,0,0,Pass
+Student 184,Fair,Low,No,No,No,No,No,No,Low,Low,Very Good,Very Good,Fail,Fair,Good,1,3,1,0,Pass
+Student 185,Good,Low,No,No,No,No,No,No,Low,Low,Very Good,Adequate,Fair,Fair,Poor,1,4,0,0,Pass
+Student 186,Adequate,High,No,No,Yes,No,No,No,Medium,Low,Good,Good,Fail,Good,Adequate,1,5,0,0,Fail
+Student 187,Good,Low,No,No,No,No,No,No,Low,Low,Good,Excellent,Adequate,Good,Poor,1,5,0,0,Pass
+Student 188,Very Good,Low,No,No,No,No,No,No,High,Low,Excellent,Very Good,Good,Excellent,Poor,1,5,0,0,Pass
+Student 189,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Excellent,Excellent,Excellent,1,2,0,0,Pass
+Student 190,Adequate,Medium,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Excellent,Good,Very Good,2,0,2,1,Pass
+Student 191,Adequate,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Excellent,Fair,Very Good,1,0,0,0,Pass
+Student 192,Adequate,Low,No,No,Yes,No,No,No,High,Low,Fail,Fail,Excellent,Fair,Very Good,1,1,0,0,Pass
+Student 193,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Excellent,Good,Excellent,1,1,0,0,Pass
+Student 194,Excellent,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Very Good,Good,Poor,3,1,2,2,Pass
+Student 195,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Very Good,Very Good,Very Good,1,0,0,0,Pass
+Student 196,Adequate,Medium,No,No,No,No,Yes,Yes,Medium,Low,Fail,Fail,Very Good,Excellent,Excellent,2,2,1,1,Pass
+Student 197,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Very Good,Good,Excellent,3,1,1,2,Pass
+Student 198,Adequate,Medium,No,Yes,Yes,No,Yes,Yes,Medium,Low,Fail,Fail,Very Good,Very Good,Very Good,8,13,1,7,Pass
+Student 199,Adequate,Medium,No,No,No,No,Yes,Yes,High,Low,Fail,Fail,Very Good,Excellent,Excellent,5,3,0,4,Pass
+Student 200,Adequate,Low,No,No,Yes,No,No,No,High,Low,Fail,Fail,Very Good,Good,Good,5,7,1,4,Pass
+Student 201,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Good,Excellent,Good,1,7,2,0,Pass
+Student 202,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Good,Fair,Fair,1,1,1,0,Pass
+Student 203,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Good,Excellent,Excellent,1,0,1,0,Pass
+Student 204,Fair,Medium,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Good,Poor,Good,1,1,1,0,Pass
+Student 205,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Excellent,Adequate,6,7,0,5,Pass
+Student 206,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fair,Poor,Excellent,1,0,1,0,Pass
+Student 207,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fair,Very Good,Good,3,0,1,2,Pass
+Student 208,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Adequate,Good,5,0,1,3,Pass
+Student 209,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Very Good,1,4,3,3,Pass
+Student 210,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Good,Poor,5,0,2,5,Fail
+Student 211,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Fair,5,0,1,3,Fail
+Student 212,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Excellent,4,0,2,3,Pass
+Student 213,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Good,5,1,3,3,Fail
+Student 214,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Fair,0,2,0,3,Fail
+Student 215,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Fail,Very Good,Poor,4,3,2,5,Fail
+Student 216,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Good,5,0,3,4,Pass
+Student 217,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Adequate,Very Good,Excellent,5,3,0,5,Pass
+Student 218,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Poor,Fair,3,5,1,0,Pass
+Student 219,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Excellent,3,2,3,3,Pass
+Student 220,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Excellent,3,5,1,5,Pass
+Student 221,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Fair,Good,1,3,3,3,Pass
+Student 222,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Fair,Excellent,4,0,3,1,Pass
+Student 223,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Fail,Very Good,Excellent,5,0,2,2,Fail
+Student 224,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Poor,0,2,2,1,Pass
+Student 225,Adequate,Low,No,Yes,No,No,Yes,No,Low,Low,Fail,Fail,Fail,Excellent,Good,0,5,3,1,Fail
+Student 226,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Excellent,0,3,2,0,Pass
+Student 227,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Adequate,Very Good,Very Good,4,0,0,2,Pass
+Student 228,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Excellent,4,0,2,3,Pass
+Student 229,Excellent,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Very Good,4,4,0,3,Fail
+Student 230,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Very Good,1,2,1,0,Pass
+Student 231,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Excellent,2,1,2,4,Pass
+Student 232,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Fair,2,1,1,2,Pass
+Student 233,Very Good,Low,No,No,No,No,Yes,Yes,High,Low,Fail,Fail,Adequate,Excellent,Good,3,0,2,0,Pass
+Student 234,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Very Good,2,2,1,0,Fail
+Student 235,Good,Low,No,No,No,No,Yes,Yes,High,Low,Fail,Fail,Adequate,Adequate,Excellent,3,5,3,3,Pass
+Student 236,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Fair,0,0,3,0,Pass
+Student 237,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Very Good,4,0,3,3,Pass
+Student 238,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Good,1,2,2,1,Pass
+Student 239,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Good,1,3,2,5,Pass
+Student 240,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Good,Very Good,2,2,3,0,Fail
+Student 241,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Excellent,0,0,1,2,Pass
+Student 242,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Good,0,1,0,0,Fail
+Student 243,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Poor,1,2,3,1,Pass
+Student 244,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Poor,Good,3,0,0,3,Fail
+Student 245,Adequate,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Fail,Fair,Very Good,5,3,1,1,Fail
+Student 246,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Fair,Excellent,2,1,1,2,Fail
+Student 247,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Excellent,5,0,3,2,Pass
+Student 248,Good,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Fail,Excellent,Excellent,3,5,3,1,Fail
+Student 249,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Very Good,5,4,3,1,Fail
+Student 250,Adequate,Low,No,No,No,Yes,No,No,Medium,Low,Fail,Fail,Adequate,Adequate,Excellent,0,0,3,1,Pass
+Student 251,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Excellent,4,1,2,3,Fail
+Student 252,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Excellent,5,1,3,4,Fail
+Student 253,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Fair,4,3,2,3,Fail
+Student 254,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Poor,Excellent,2,4,2,0,Fail
+Student 255,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Very Good,Excellent,4,5,0,1,Fail
+Student 256,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Very Good,Good,5,3,3,4,Fail
+Student 257,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Poor,Good,3,1,1,0,Pass
+Student 258,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Adequate,4,4,3,0,Pass
+Student 259,Excellent,Low,No,No,No,No,Yes,Yes,Low,Low,Fail,Fail,Adequate,Good,Very Good,1,2,1,4,Pass
+Student 260,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Good,3,3,1,2,Pass
+Student 261,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Excellent,1,5,0,2,Pass
+Student 262,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Excellent,3,3,1,5,Pass
+Student 263,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Very Good,Excellent,5,1,2,5,Fail
+Student 264,Very Good,Low,No,No,No,No,Yes,Yes,Medium,Low,Fail,Fail,Fail,Poor,Excellent,1,2,0,3,Fail
+Student 265,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Adequate,4,3,0,4,Pass
+Student 266,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Very Good,2,1,3,2,Pass
+Student 267,Adequate,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Fair,1,0,2,3,Pass
+Student 268,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Excellent,3,4,1,2,Pass
+Student 269,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Very Good,2,3,2,5,Pass
+Student 270,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Excellent,2,4,3,1,Fail
+Student 271,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Fair,2,2,1,2,Fail
+Student 272,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Good,Very Good,4,2,1,0,Fail
+Student 273,Fair,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fail,Good,Good,5,5,2,3,Fail
+Student 274,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Good,1,5,2,4,Fail
+Student 275,Good,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Adequate,Excellent,Good,1,3,1,0,Pass
+Student 276,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Excellent,0,4,0,0,Fail
+Student 277,Very Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Fair,Good,0,3,1,1,Fail
+Student 278,Adequate,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Adequate,Excellent,Excellent,1,3,3,0,Pass
+Student 279,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Excellent,Very Good,0,3,0,4,Fail
+Student 280,Adequate,Low,No,No,No,Yes,Yes,No,Low,Low,Fail,Fail,Adequate,Good,Good,1,1,3,2,Pass
+Student 281,Fair,Low,No,No,No,No,Yes,No,Low,Low,Fail,Fail,Adequate,Good,Good,0,4,3,3,Pass
+Student 282,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Very Good,Good,2,1,0,4,Pass
+Student 283,Good,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fail,Good,Excellent,0,1,0,4,Fail
+Student 284,Fair,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Adequate,Poor,Excellent,0,2,2,2,Pass
+Student 285,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Excellent,1,1,2,4,Fail
+Student 286,Fair,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Excellent,Fair,5,5,1,4,Pass
+Student 287,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Excellent,5,5,0,0,Pass
+Student 288,Adequate,Low,No,No,Yes,No,Yes,No,Low,Low,Fail,Fail,Adequate,Excellent,Adequate,3,3,2,5,Pass
+Student 289,Very Good,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Fail,Excellent,Very Good,1,2,1,0,Pass
+Student 290,Fair,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Adequate,Very Good,Very Good,3,0,0,5,Pass
+Student 291,Fair,Low,No,No,No,No,No,No,Low,Low,Fail,Fail,Adequate,Good,Poor,2,2,0,0,Pass
+Student 292,Good,Low,No,No,No,No,Yes,No,Medium,Low,Fail,Fail,Adequate,Excellent,Excellent,1,0,2,2,Pass
+Student 293,Fair,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Adequate,Very Good,Excellent,1,5,3,0,Pass
+Student 294,Fair,Low,Yes,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Poor,Good,1,3,3,4,Pass
+Student 295,Good,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Adequate,Very Good,Excellent,0,3,0,0,Pass
+Student 296,Excellent,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Adequate,Good,Very Good,5,0,1,4,Pass
+Student 297,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Good,Excellent,4,2,3,5,Pass
+Student 298,Adequate,Low,No,No,No,No,No,No,Medium,Low,Adequate,Fail,Fail,Very Good,Very Good,5,4,1,2,Pass
+Student 299,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Excellent,Very Good,1,0,3,2,Pass
+Student 300,Good,Low,No,No,No,No,No,No,High,Low,Adequate,Adequate,Fail,Good,Excellent,1,0,3,5,Pass
+Student 301,Fair,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Adequate,Fair,Excellent,2,2,0,4,Pass
+Student 302,Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Adequate,Very Good,Excellent,3,2,1,5,Pass
+Student 303,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Fair,Excellent,1,5,1,5,Fail
+Student 304,Adequate,Low,No,No,No,No,Yes,No,High,Low,Adequate,Adequate,Fail,Excellent,Good,3,5,3,0,Pass
+Student 305,Fair,Low,No,No,No,No,No,No,Medium,Low,Adequate,Adequate,Fail,Excellent,Excellent,0,2,1,3,Pass
+Student 306,Adequate,Low,No,No,No,No,Yes,No,High,Low,Adequate,Adequate,Fail,Good,Very Good,4,0,1,3,Pass
+Student 307,Adequate,Low,No,No,No,No,Yes,No,High,Low,Adequate,Fail,Fail,Excellent,Excellent,0,4,2,2,Pass
+Student 308,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Fail,Poor,Good,4,3,2,5,Fail
+Student 309,Good,Low,No,No,No,No,No,No,Medium,Low,Fail,Fail,Adequate,Good,Poor,5,2,3,4,Pass
+Student 310,Fair,Low,No,No,No,No,No,No,Medium,Low,Adequate,Fail,Adequate,Excellent,Excellent,0,2,2,3,Pass
+Student 311,Good,Low,No,No,No,No,No,No,Medium,Low,Fair,Adequate,Fail,Very Good,Excellent,0,0,1,5,Pass
+Student 312,Excellent,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Poor,Excellent,3,2,0,2,Fail
+Student 313,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Adequate,Fail,Good,Good,4,5,2,5,Pass
+Student 314,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Good,5,4,2,2,Fail
+Student 315,Fair,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Very Good,Very Good,3,0,1,4,Fail
+Student 316,Fair,Low,No,No,No,No,No,No,High,Low,Fair,Fail,Fail,Excellent,Very Good,3,3,3,0,Pass
+Student 317,Adequate,Low,No,Yes,Yes,No,Yes,No,Medium,Low,Adequate,Fail,Fail,Excellent,Very Good,2,2,0,3,Pass
+Student 318,Very Good,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Fair,3,5,0,3,Fail
+Student 319,Good,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Fail,Excellent,Good,2,4,2,3,Pass
+Student 320,Adequate,Low,No,No,No,No,No,No,High,Low,Fail,Fail,Fail,Excellent,Fair,4,2,1,5,Fail
+Student 321,Fair,Low,No,No,No,No,No,No,High,Low,Good,Adequate,Fail,Good,Fair,4,4,3,2,Pass
+Student 322,Fair,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Fail,Very Good,Excellent,5,2,2,0,Pass
+Student 323,Adequate,Low,No,Yes,Yes,No,Yes,No,Low,Low,Adequate,Fail,Good,Poor,Excellent,1,5,3,0,Pass
+Student 324,Adequate,Low,No,No,No,No,No,No,High,Low,Adequate,Fail,Adequate,Excellent,Excellent,1,3,3,4,Pass
+Student 325,Good,Low,No,No,No,No,Yes,No,Low,Low,Adequate,Fail,Adequate,Good,Very Good,0,3,0,0,Pass
+Student 326,Adequate,Low,No,No,Yes,No,Yes,No,High,Low,Fail,Adequate,Fail,Excellent,Very Good,5,0,1,4,Fail

@@ -1,0 +1,71 @@
+﻿This README.txt file was generated on 20200607 by CAROLINA RODRÍGUEZ LLORENTE
+
+-------------------
+GENERAL INFORMATION
+-------------------
+
+Title of Dataset: School engagement, SRL and academic achievement
+
+Author Information 
+
+	Principal Investigator: Susana Rodríguez Martínez, University of A Coruña, A Coruña (SPAIN), susana.rodriguez1@udc.es, https://orcid.org/0000-0003-4548-0602
+	Associate or Co-investigator: Antonio Valle Arias, University of A Coruña, A Coruña (SPAIN), antonio.valle@udc.es, https://orcid.org/0000-0001-8160-9181
+				Isabel Piñeiro Aguín, University of A Coruña, A Coruña (SPAIN), isabel.pineiro.aguin@udc.es, https://orcid.org/0000-0002-1845-2238
+				Tania Vieites Lestón, University of A Coruña, A Coruña (SPAIN), t.vieites@udc.es, https://orcid.org/0000-0003-4440-0201
+				Rocío González Suárez, University of A Coruña, A Coruña (SPAIN), rocio.gonzalez.suarez@udc.es, https://orcid.org/0000-0002-7065-1015
+				Carolina Rodríguez-Llorente, University of A Coruña, A Coruña (SPAIN), carolina.rodriguez.llorente@udc.es, https://orcid.org/0000-0002-2894-5271 
+				
+Geographic location of data collection: Spain
+
+General description: The aim of this study was to characterize students' school engagement and to explored the extent to which different profiles are associated with academic performance and self-regulation. This study was carried out via the latent profile analysis (LPA).
+
+Keywords: Self-regulated learning, school engagement, academic achievement, autorregulación, compromiso escolar, rendimiento académico. 
+
+--------------------------
+SHARING/ACCESS INFORMATION
+-------------------------- 
+
+Open Access to data: Open
+
+Licenses/restrictions placed on the data, or limitations of reuse: Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
+Citation for and links to publications that cite or use the data: Rodríguez, S., Valle, A., Piñeiro, I., Vieites, T., González-Suárez, R., & Rodríguez-Llorente, C. (2020). School engagement, SRL and academic achievement [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4018678
+
+--------------------
+DATA & FILE OVERVIEW
+--------------------
+
+File list: Manuscript_School Engagement.sav
+Manuscript_School Engagement.csv
+Contenido_Manuscript_School Engagement.txt
+
+Type of version of the dataset: FINAL DATASET
+
+
+--------------------------
+METHODOLOGICAL INFORMATION
+--------------------------
+
+Description of methods used for collection/generation of data: https://doi.org/10.3390/su13063011
+
+Software- or Instrument-specific information needed to interpret the data, including software and hardware version numbers: SPSS 26.7
+
+--------------------------
+DATA-SPECIFIC INFORMATION 
+--------------------------
+
+Number of variables: 9
+
+Number of cases/rows: 717
+
+Variable list, defining any abbreviations, units of measure, codes or symbols used: 
+	ren.mat.pret (Maths academic achievement)
+	ren.leng.pret (Spanish academic achievement)
+	PRE_Emotion_Engage (Emotional engagement)
+	PRE_Cognitive_Engage (Cognitive engagement)
+	PRE_Behavior_Engage (Behavioral engagement)
+	PRE_Environment_Manage (Environment management-selfregulation)
+	PRE_Information_help_Manage (Information and help management-selfregulation)
+	PRE_Maladapative_Manage (Maladaptative selfregulation)
+	PRE_Time_Manage (Time management-selfregulation)
+   

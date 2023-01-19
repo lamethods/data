@@ -1,0 +1,327 @@
+ModuleCode,ModuleTitle,SessionName,ApplicantName,CGPA,CGPA,AttemptCount,AttemptCount,RemoteStudent,Probation,HighRisk,TermExceeded,AtRisk,AtRiskSSC,OtherModules,OtherModules,PlagiarismHistory,PlagiarismHistory,CW1,CW1,CW2,CW2,ESE,ESE,Online C,Online C,Online O,Online O,Played,Paused,Likes,Segment,Result
+Module 2,Course 2,Session-A,Student 1,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,72.5,Fair,72.5,Fair,65,Adequate,239,Very Good,301,Excellent,3,1,2,2,Pass
+Module 2,Course 2,Session-A,Student 2,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,71.2,Fair,71.2,Fair,54.5,Adequate,18,Poor,13,Poor,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 3,Fair,2.5,1,Low,No,No,No,No,No,No,1,Low,0,Low,21.7,Fail,21.7,Fail,0,Fail,54,Fair,249,Very Good,2,2,1,1,Pass
+Module 2,Course 2,Session-A,Student 4,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,1,Low,63.7,Adequate,63.7,Adequate,43.5,Fail,253,Very Good,90,Fair,3,1,1,2,Pass
+Module 2,Course 2,Session-A,Student 5,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,55.8,Adequate,55.8,Adequate,64,Adequate,77,Fair,241,Very Good,8,13,1,7,Pass
+Module 2,Course 2,Session-A,Student 6,Fair,2.5,1,Low,No,No,No,No,No,No,1,Low,0,Low,63.3,Adequate,63.3,Adequate,61,Adequate,354,Excellent,238,Very Good,5,3,0,4,Pass
+Module 2,Course 2,Session-A,Student 7,Fair,2.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,56.7,Adequate,56.7,Adequate,50,Adequate,9,Poor,280,Very Good,5,7,1,4,Pass
+Module 2,Course 2,Session-A,Student 8,Fair,2.5,2,Medium,No,No,No,No,Yes,No,1,Low,0,Low,40,Fail,40,Fail,59,Adequate,94,Fair,15,Poor,1,7,2,0,Pass
+Module 2,Course 2,Session-A,Student 9,Adequate,2,2,Medium,No,Yes,No,No,Yes,No,2,Medium,1,Low,86,Very Good,86,Very Good,47,Fail,86,Fair,130,Good,1,1,1,0,Pass
+Module 2,Course 2,Session-A,Student 10,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,83,Very Good,83,Very Good,70,Fair,308,Excellent,395,Excellent,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 11,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,63.9,Adequate,63.9,Adequate,76,Good,2,Poor,30,Adequate,1,1,1,0,Pass
+Module 2,Course 2,Session-A,Student 12,Adequate,1.75,1,Low,No,Yes,Yes,No,No,No,2,Medium,0,Low,76.3,Good,76.3,Good,64,Adequate,301,Excellent,296,Very Good,6,7,0,5,Pass
+Module 2,Course 2,Session-A,Student 13,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,86.5,Very Good,86.5,Very Good,66,Fair,110,Good,36,Adequate,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 14,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,51.8,Adequate,51.8,Adequate,48,Fail,21,Poor,164,Good,3,0,1,2,Pass
+Module 2,Course 2,Session-A,Student 15,Fair,2.5,1,Low,No,No,No,No,Yes,No,3,High,0,Low,73.4,Fair,73.4,Fair,72,Fair,106,Good,76,Fair,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 16,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,69.2,Fair,69.2,Fair,65,Adequate,156,Good,89,Fair,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 17,Excellent,3.75,1,Low,No,No,No,No,No,No,1,Low,0,Low,54.7,Adequate,54.7,Adequate,50,Adequate,380,Excellent,179,Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 18,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,54.8,Adequate,54.8,Adequate,45,Fail,163,Good,152,Good,1,6,1,0,Pass
+Module 2,Course 2,Session-A,Student 19,Adequate,1.75,1,Low,No,No,No,No,No,No,1,Low,1,Low,70.3,Fair,70.3,Fair,65,Adequate,218,Very Good,125,Good,1,4,1,0,Pass
+Module 2,Course 2,Session-A,Student 20,Adequate,2,2,Medium,No,No,No,No,Yes,Yes,3,High,0,Low,88.3,Excellent,88.3,Excellent,84,Very Good,93,Fair,255,Very Good,1,3,1,0,Pass
+Module 2,Course 2,Session-A,Student 21,Fair,2.5,1,Low,No,No,No,No,No,No,1,Low,0,Low,67.96,Fair,67.96,Fair,67,Fair,245,Very Good,84,Fair,1,4,0,0,Pass
+Module 2,Course 2,Session-A,Student 22,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,88,Excellent,88,Excellent,79.5,Good,287,Very Good,253,Very Good,1,5,1,0,Pass
+Module 2,Course 2,Session-A,Student 23,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,65.38,Adequate,65.38,Adequate,49,Fail,100,Good,223,Very Good,1,5,1,0,Pass
+Module 2,Course 2,Session-A,Student 24,Adequate,1.75,2,Medium,No,No,No,No,Yes,No,1,Low,2,Medium,67.3,Fair,67.3,Fair,45.5,Fail,320,Excellent,391,Excellent,1,5,1,0,Pass
+Module 2,Course 2,Session-A,Student 25,Poor,0,2,Medium,No,Yes,Yes,No,Yes,Yes,4,Low,0,Low,86.56,Very Good,86.56,Very Good,78.5,Good,399,Excellent,249,Very Good,1,2,0,0,Pass
+Module 2,Course 2,Session-A,Student 26,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,64.26,Adequate,64.26,Adequate,56,Adequate,174,Good,19,Poor,2,0,2,1,Fail
+Module 2,Course 2,Session-A,Student 27,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,49.2,Fail,49.2,Fail,0,Fail,293,Very Good,339,Excellent,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 28,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,91.5,Excellent,91.5,Excellent,58.5,Adequate,45,Adequate,43,Adequate,1,1,0,0,Pass
+Module 2,Course 2,Session-A,Student 29,Poor,,1,Low,No,No,No,No,No,No,2,Medium,0,Low,51.66,Adequate,51.66,Adequate,48,Fail,223,Very Good,186,Good,1,1,1,0,Pass
+Module 2,Course 2,Session-A,Student 30,Adequate,1.75,2,Medium,No,No,No,No,Yes,No,3,High,1,Low,54.8,Adequate,54.8,Adequate,45,Fail,243,Very Good,262,Very Good,5,0,1,4,Pass
+Module 2,Course 2,Session-A,Student 31,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,85.3,Very Good,85.3,Very Good,83,Very Good,256,Very Good,318,Excellent,2,0,0,1,Pass
+Module 2,Course 2,Session-A,Student 32,Excellent,3.75,1,Low,No,No,No,No,No,No,3,High,0,Low,77.8,Good,77.8,Good,35,Fail,324,Excellent,243,Very Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 33,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,44.76,Fail,44.76,Fail,64,Adequate,296,Very Good,65,Fair,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 34,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,47.2,Fail,47.2,Fail,14,Fail,140,Good,35,Adequate,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 35,Fair,2.25,1,Low,No,No,No,No,No,No,1,Low,0,Low,72.7,Fair,72.7,Fair,76,Good,42,Adequate,166,Good,2,0,0,1,Pass
+Module 2,Course 2,Session-A,Student 36,Adequate,1.75,3,High,No,No,Yes,No,No,No,3,High,0,Low,71.3,Fair,71.3,Fair,62,Adequate,342,Excellent,267,Very Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 37,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,89.1,Excellent,89.1,Excellent,84,Very Good,125,Good,218,Very Good,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 38,Adequate,1.75,2,Medium,No,No,Yes,No,Yes,No,1,Low,0,Low,77.2,Good,77.2,Good,53,Adequate,255,Very Good,93,Fair,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 39,Adequate,2,2,Medium,No,No,No,No,Yes,No,4,Low,0,Low,80.16,Very Good,80.16,Very Good,64.5,Adequate,84,Fair,245,Very Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 40,Fair,2.25,1,Low,No,No,No,No,No,No,1,Low,0,Low,85.9,Very Good,85.9,Very Good,83,Very Good,253,Very Good,287,Very Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 41,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,56.84,Adequate,56.84,Adequate,55,Adequate,223,Very Good,100,Good,1,0,0,0,Pass
+Module 2,Course 2,Session-A,Student 42,Adequate,2,1,Low,No,No,No,No,Yes,Yes,3,High,0,Low,54.4,Adequate,54.4,Adequate,45,Fail,391,Excellent,320,Excellent,3,1,2,2,Pass
+Module 2,Course 2,Session-A,Student 43,Adequate,1.75,2,Medium,No,No,No,No,Yes,No,2,Medium,0,Low,66.4,Fair,66.4,Fair,44,Fail,249,Very Good,399,Excellent,1,0,1,0,Pass
+Module 2,Course 2,Session-A,Student 44,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,36.9,Fail,36.9,Fail,5,Fail,19,Poor,174,Good,2,2,1,1,Pass
+Module 2,Course 2,Session-A,Student 45,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,68.2,Fair,68.2,Fair,60,Adequate,339,Excellent,293,Very Good,3,1,1,2,Pass
+Module 2,Course 2,Session-A,Student 46,Poor,,1,Low,No,No,No,No,No,No,3,High,0,Low,71.96,Fair,71.96,Fair,75,Good,43,Adequate,45,Adequate,8,13,1,7,Pass
+Module 2,Course 2,Session-A,Student 47,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,79.86,Good,79.86,Good,47,Fail,186,Good,223,Very Good,5,3,0,4,Pass
+Module 2,Course 2,Session-A,Student 48,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,92.7,Excellent,92.7,Excellent,81,Very Good,262,Very Good,243,Very Good,5,7,1,4,Pass
+Module 2,Course 2,Session-A,Student 49,Adequate,2,2,Medium,No,No,No,No,Yes,No,2,Medium,0,Low,82.16,Very Good,82.16,Very Good,50.5,Adequate,318,Excellent,256,Very Good,1,7,2,0,Pass
+Module 2,Course 2,Session-A,Student 50,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,55.36,Adequate,55.36,Adequate,57,Adequate,243,Very Good,324,Excellent,1,1,0,0,Pass
+Module 2,Course 2,Session-A,Student 51,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,59.66,Adequate,59.66,Adequate,60,Adequate,65,Fair,296,Very Good,1,0,0,0,Pass
+Module 5,Course 5,Session-A,Student 52,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,78,Good,70,Fair,72,Fair,39,Adequate,23,Poor,1,1,1,0,Pass
+Module 5,Course 5,Session-A,Student 53,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,91,Excellent,90,Excellent,82,Very Good,301,Excellent,35,Adequate,6,7,1,5,Pass
+Module 5,Course 5,Session-A,Student 54,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,52,Adequate,62,Adequate,68,Fair,98,Fair,6,Poor,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 55,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,0,Low,81,Very Good,75,Good,66,Fair,186,Good,12,Poor,3,0,1,2,Fail
+Module 5,Course 5,Session-A,Student 56,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,55,Adequate,65,Adequate,83,Very Good,82,Fair,11,Poor,1,0,1,0,Fail
+Module 5,Course 5,Session-B,Student 57,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,78,Good,71,Fair,48,Fail,150,Good,20,Poor,1,0,1,0,Pass
+Module 5,Course 5,Session-B,Student 58,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,69,Fair,69,Fair,56,Adequate,186,Good,56,Fair,1,0,1,0,Pass
+Module 5,Course 5,Session-B,Student 59,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,1,Low,63.65,Adequate,64.6,Adequate,26,Fail,115,Good,10,Poor,1,6,0,0,Pass
+Module 5,Course 5,Session-B,Student 60,Adequate,1.75,1,Low,No,No,Yes,No,Yes,No,3,High,1,Low,69.3,Fair,69.35,Fair,77,Good,224,Very Good,123,Good,1,4,0,0,Pass
+Module 5,Course 5,Session-B,Student 61,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,89,Excellent,73,Fair,67,Fair,189,Good,67,Fair,1,3,1,0,Pass
+Module 5,Course 5,Session-B,Student 62,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,84,Very Good,79,Good,94,Excellent,246,Very Good,210,Very Good,1,4,0,0,Fail
+Module 5,Course 5,Session-B,Student 63,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,82,Very Good,75,Good,33,Fail,132,Good,24,Poor,1,5,1,0,Pass
+Module 5,Course 5,Session-B,Student 64,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,0,Low,73,Fair,83,Very Good,56,Adequate,140,Good,34,Adequate,1,5,1,0,Pass
+Module 5,Course 5,Session-B,Student 65,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,87,Excellent,81,Very Good,86,Very Good,315,Excellent,208,Very Good,1,5,0,0,Pass
+Module 5,Course 5,Session-B,Student 66,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,80,Very Good,81,Very Good,37,Fail,78,Fair,89,Fair,1,2,0,0,Pass
+Module 5,Course 5,Session-B,Student 67,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,89,Excellent,89,Excellent,96,Excellent,280,Very Good,326,Excellent,2,0,2,1,Pass
+Module 5,Course 5,Session-B,Student 68,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,74,Good,79,Good,36,Fail,112,Good,140,Good,1,0,0,0,Pass
+Module 5,Course 5,Session-B,Student 69,Adequate,1.75,1,Low,No,No,No,No,Yes,No,3,High,0,Low,82,Very Good,81,Very Good,24,Fail,168,Good,40,Adequate,1,1,0,0,Pass
+Module 5,Course 5,Session-B,Student 70,Adequate,2,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,75.05,Good,68.4,Fair,45,Fail,138,Good,94,Fair,1,1,0,0,Pass
+Module 5,Course 5,Session-B,Student 71,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,1,Low,76,Good,75,Good,44,Fail,56,Fair,86,Fair,5,0,1,4,Pass
+Module 5,Course 5,Session-B,Student 72,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,83,Very Good,71,Fair,48,Fail,143,Good,180,Good,2,0,1,1,Pass
+Module 5,Course 5,Session-A,Student 73,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,79,Good,84,Very Good,59,Adequate,48,Adequate,87,Fair,1,0,0,0,Pass
+Module 5,Course 5,Session-A,Student 74,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,68,Fair,73,Fair,50,Adequate,21,Poor,121,Good,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 75,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,77,Good,73,Fair,38,Fail,166,Good,92,Fair,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 76,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,77,Good,86,Very Good,82,Very Good,91,Fair,161,Good,2,0,0,1,Pass
+Module 5,Course 5,Session-A,Student 77,Adequate,2,1,Low,No,No,Yes,No,Yes,Yes,3,High,1,Low,49.5,Fail,0,Fail,Absent,Excellent,117,Good,0,Poor,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 78,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,66,Fair,76,Good,29,Fail,6,Poor,142,Good,1,0,0,0,Pass
+Module 5,Course 5,Session-A,Student 79,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,72,Fair,75,Good,61,Adequate,139,Good,130,Good,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 80,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,75,Good,87,Excellent,64,Adequate,422,Excellent,86,Fair,1,0,1,0,Fail
+Module 5,Course 5,Session-A,Student 81,Adequate,1.75,1,Low,No,No,Yes,No,No,No,3,High,0,Low,61,Adequate,70,Fair,61,Adequate,167,Good,83,Fair,1,0,0,0,Pass
+Module 5,Course 5,Session-A,Student 82,Adequate,1.75,1,Low,No,No,Yes,No,No,No,3,High,1,Low,70,Fair,83,Very Good,17,Fail,60,Fair,117,Good,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 83,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,74,Good,65,Adequate,62,Adequate,182,Good,100,Good,3,1,2,2,Pass
+Module 5,Course 5,Session-A,Student 84,Excellent,3.75,1,Low,No,No,No,No,No,No,3,High,0,Low,81,Very Good,88,Excellent,66,Fair,115,Good,72,Fair,1,0,1,0,Pass
+Module 5,Course 5,Session-A,Student 85,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,64,Adequate,77,Good,49,Fail,130,Good,77,Fair,2,2,1,1,Pass
+Module 5,Course 5,Session-A,Student 86,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,78,Good,84,Very Good,25,Fail,269,Very Good,44,Adequate,3,1,1,2,Pass
+Module 5,Course 5,Session-A,Student 87,Fair,2.25,1,Low,No,No,No,Yes,No,No,2,Medium,1,Low,73,Fair,74,Good,39,Fail,123,Good,52,Fair,8,13,0,7,Fail
+Module 5,Course 5,Session-A,Student 88,Adequate,1.75,1,Low,No,No,No,No,Yes,No,3,High,0,Low,78,Good,80,Very Good,14,Fail,126,Good,261,Very Good,5,3,0,4,Pass
+Module 5,Course 5,Session-A,Student 89,Adequate,2,1,Low,No,No,No,Yes,No,No,2,Medium,1,Low,79,Good,80,Very Good,30,Fail,216,Very Good,43,Adequate,5,7,1,4,Pass
+Module 4,Course 4,Session-A,Student 90,Fair,2.25,1,Low,No,Yes,No,No,Yes,No,2,Medium,1,Low,45.25,Fail,41,Fail,86,Very Good,104,Good,85,Fair,1,7,2,0,Pass
+Module 4,Course 4,Session-A,Student 91,Adequate,2,3,High,No,Yes,Yes,No,Yes,No,1,Low,0,Low,40,Fail,46,Fail,86,Very Good,73,Fair,240,Very Good,1,1,0,0,Pass
+Module 4,Course 4,Session-A,Student 92,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,1,Low,35.75,Fail,44.75,Fail,81,Very Good,113,Good,240,Very Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 93,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,45.75,Fail,33.5,Fail,79,Good,24,Poor,19,Poor,1,1,1,0,Pass
+Module 4,Course 4,Session-A,Student 94,Good,2.75,2,Medium,No,No,No,No,Yes,No,3,High,1,Low,40,Fail,38,Fail,78,Good,25,Poor,169,Good,6,7,0,5,Pass
+Module 4,Course 4,Session-A,Student 95,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,44.75,Fail,33.5,Fail,78,Good,5,Poor,3,Poor,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 96,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,40.5,Fail,36.5,Fail,77,Good,113,Good,196,Good,3,0,1,2,Pass
+Module 4,Course 4,Session-A,Student 97,Good,2.75,1,Low,No,Yes,No,No,Yes,No,3,High,0,Low,42,Fail,32,Fail,74,Good,246,Very Good,195,Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 98,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,41.75,Fail,30,Fail,72,Fair,123,Good,27,Poor,1,0,0,0,Pass
+Module 4,Course 4,Session-A,Student 99,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,42,Fail,29,Fail,71,Fair,304,Excellent,233,Very Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 100,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,37.25,Fail,33.5,Fail,71,Fair,134,Good,0,Poor,1,6,1,0,Fail
+Module 4,Course 4,Session-A,Student 101,Fair,2.5,1,Low,No,No,Yes,No,Yes,No,3,High,0,Low,39.03,Fail,30.5,Fail,70,Fair,167,Good,55,Fair,1,4,1,0,Pass
+Module 4,Course 4,Session-A,Student 102,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,33.25,Fail,36.5,Fail,70,Fair,299,Very Good,139,Good,1,3,1,0,Pass
+Module 4,Course 4,Session-A,Student 103,Good,3,2,Medium,No,No,No,No,Yes,No,3,High,1,Low,37.75,Fail,32,Fail,70,Fair,66,Fair,30,Adequate,1,4,1,0,Pass
+Module 4,Course 4,Session-A,Student 104,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,45,Fail,23.5,Fail,69,Fair,319,Excellent,264,Very Good,1,5,1,0,Pass
+Module 4,Course 4,Session-A,Student 105,Good,2.75,1,Low,No,No,No,No,Yes,No,3,High,0,Low,41.25,Fail,28,Fail,69,Fair,19,Poor,394,Excellent,1,5,1,0,Pass
+Module 4,Course 4,Session-A,Student 106,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,38.5,Fail,30.5,Fail,69,Fair,345,Excellent,363,Excellent,1,5,1,0,Pass
+Module 4,Course 4,Session-A,Student 107,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,34,Fail,34,Fail,68,Fair,209,Very Good,259,Very Good,1,2,1,0,Pass
+Module 4,Course 4,Session-A,Student 108,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,43.75,Fail,24,Fail,68,Fair,145,Good,151,Good,2,0,2,1,Pass
+Module 4,Course 4,Session-A,Student 109,Excellent,3.75,2,Medium,No,Yes,No,No,Yes,No,2,Medium,0,Low,37.5,Fail,30,Fail,68,Fair,214,Very Good,221,Very Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 110,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,41,Fail,27.25,Fail,68,Fair,94,Fair,172,Good,1,1,0,0,Pass
+Module 4,Course 4,Session-A,Student 111,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,35.25,Fail,32,Fail,67,Fair,212,Very Good,273,Very Good,1,1,0,0,Pass
+Module 4,Course 4,Session-A,Student 112,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,38,Fail,27.75,Fail,66,Fair,171,Good,115,Good,5,0,1,4,Fail
+Module 4,Course 4,Session-A,Student 113,Adequate,2,1,Low,No,No,No,No,No,No,1,Low,0,Low,38.25,Fail,27.5,Fail,66,Fair,328,Excellent,80,Fair,2,0,0,1,Fail
+Module 4,Course 4,Session-A,Student 114,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,41.55,Fail,23,Fail,65,Adequate,187,Good,311,Excellent,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 115,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,40,Fail,24,Fail,64,Adequate,115,Good,248,Very Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 116,Adequate,1.75,1,Low,No,No,No,No,Yes,Yes,3,High,0,Low,37.5,Fail,26,Fail,64,Adequate,76,Fair,51,Fair,1,0,0,0,Pass
+Module 4,Course 4,Session-A,Student 117,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,37.75,Fail,26,Fail,64,Adequate,233,Very Good,16,Poor,2,0,0,1,Fail
+Module 4,Course 4,Session-A,Student 118,Adequate,1.75,1,Low,No,No,Yes,No,No,No,3,High,0,Low,30.5,Fail,33,Fail,64,Adequate,107,Good,183,Good,1,0,1,0,Fail
+Module 4,Course 4,Session-A,Student 119,Excellent,3.75,1,Low,No,No,No,No,No,No,3,High,0,Low,38.09,Fail,26,Fail,64,Adequate,167,Good,178,Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 120,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,39.5,Fail,23,Fail,63,Adequate,184,Good,87,Fair,1,0,0,0,Pass
+Module 4,Course 4,Session-A,Student 121,Fair,2.25,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,33.5,Fail,29.5,Fail,63,Adequate,260,Very Good,136,Good,1,0,1,0,Pass
+Module 4,Course 4,Session-A,Student 122,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,40.75,Fail,22.5,Fail,63,Adequate,14,Poor,293,Very Good,1,0,0,0,Pass
+Module 4,Course 4,Session-A,Student 123,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,37,Fail,26,Fail,63,Adequate,352,Excellent,314,Excellent,1,0,0,0,Pass
+Module 4,Course 4,Session-A,Student 124,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,40.08,Fail,23,Fail,63,Adequate,233,Very Good,248,Very Good,3,1,2,2,Pass
+Module 3,Course 3,Session-B,Student 125,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,74,Good,67.45,Fair,65.5,Adequate,186,Good,112,Good,1,0,0,0,Fail
+Module 3,Course 3,Session-B,Student 126,Good,2.75,1,Low,No,No,No,Yes,No,No,3,High,0,Low,67,Fair,69,Fair,59.5,Adequate,166,Good,184,Good,2,2,1,1,Pass
+Module 3,Course 3,Session-B,Student 127,Fair,2.25,1,Low,No,No,No,Yes,No,No,2,Medium,0,Low,72,Fair,83,Very Good,87.5,Excellent,256,Very Good,214,Very Good,3,1,1,2,Fail
+Module 3,Course 3,Session-B,Student 128,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,79,Good,64,Adequate,64,Adequate,223,Very Good,180,Good,8,13,0,7,Pass
+Module 3,Course 3,Session-B,Student 129,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,0,Low,77,Good,70,Fair,71.5,Fair,316,Excellent,188,Good,5,3,0,4,Pass
+Module 3,Course 3,Session-B,Student 130,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,31,Fail,56.05,Adequate,76,Good,96,Fair,191,Good,5,7,1,4,Pass
+Module 3,Course 3,Session-B,Student 131,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,69,Fair,89,Excellent,75,Good,386,Excellent,234,Very Good,1,7,2,0,Fail
+Module 3,Course 3,Session-B,Student 132,Adequate,1.75,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,70,Fair,83,Very Good,75.5,Good,212,Very Good,256,Very Good,1,1,0,0,Pass
+Module 3,Course 3,Session-B,Student 133,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,76,Good,86,Very Good,60,Adequate,128,Good,160,Good,1,0,0,0,Fail
+Module 3,Course 3,Session-B,Student 134,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,69,Fair,61,Adequate,66.5,Fair,229,Very Good,59,Fair,1,1,1,0,Pass
+Module 3,Course 3,Session-B,Student 135,Fair,2.5,1,Low,No,No,No,No,No,No,4,Low,0,Low,85,Very Good,81.7,Very Good,56.5,Adequate,189,Good,301,Excellent,6,7,0,5,Pass
+Module 3,Course 3,Session-B,Student 136,Good,3,1,Low,No,No,No,No,No,No,4,Low,0,Low,25.65,Fail,0,Fail,0,Fail,177,Good,289,Very Good,1,0,1,0,Pass
+Module 3,Course 3,Session-B,Student 137,Adequate,2,2,Medium,No,No,Yes,No,Yes,No,1,Low,0,Low,75,Good,89,Excellent,52,Adequate,157,Good,23,Poor,3,0,1,2,Fail
+Module 3,Course 3,Session-B,Student 138,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,1,Low,69,Fair,80.75,Very Good,74,Good,169,Good,112,Good,1,0,1,0,Pass
+Module 3,Course 3,Session-B,Student 139,Fair,2.25,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,73,Fair,79,Good,64,Adequate,151,Good,161,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 140,Fair,2.5,1,Low,No,No,No,No,No,No,4,Low,0,Low,52,Adequate,53,Adequate,55.5,Adequate,239,Very Good,152,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 141,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,65,Adequate,73,Fair,41,Fail,143,Good,163,Good,1,6,0,0,Pass
+Module 3,Course 3,Session-B,Student 142,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,1,Low,65,Adequate,64,Adequate,41,Fail,191,Good,27,Poor,1,4,0,0,Pass
+Module 3,Course 3,Session-B,Student 143,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,77,Good,84,Very Good,8,Fail,272,Very Good,184,Good,1,3,1,0,Pass
+Module 3,Course 3,Session-B,Student 144,Fair,2.25,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,80,Very Good,85,Very Good,80.5,Very Good,157,Good,238,Very Good,1,4,0,0,Pass
+Module 3,Course 3,Session-B,Student 145,Very Good,3.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,59,Adequate,88,Excellent,70.5,Fair,150,Good,210,Very Good,1,5,0,0,Fail
+Module 3,Course 3,Session-B,Student 146,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,78,Good,80,Very Good,60.5,Adequate,150,Good,20,Poor,1,5,0,0,Pass
+Module 3,Course 3,Session-B,Student 147,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,63.3,Adequate,63.3,Adequate,61,Adequate,186,Good,56,Fair,1,5,0,0,Pass
+Module 3,Course 3,Session-B,Student 148,Adequate,1.75,1,Low,No,No,Yes,No,Yes,Yes,3,High,0,Low,56.7,Adequate,56.7,Adequate,50,Adequate,115,Good,10,Poor,1,2,0,0,Pass
+Module 3,Course 3,Session-B,Student 149,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,40,Fail,40,Fail,59,Adequate,224,Very Good,123,Good,2,0,2,1,Pass
+Module 3,Course 3,Session-B,Student 150,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,86,Very Good,86,Very Good,47,Fail,189,Good,67,Fair,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 151,Adequate,2,3,High,No,No,Yes,No,Yes,No,3,High,1,Low,83,Very Good,83,Very Good,70,Fair,246,Very Good,210,Very Good,1,1,0,0,Pass
+Module 3,Course 3,Session-B,Student 152,Adequate,1.75,2,Medium,No,No,No,No,Yes,No,2,Medium,1,Low,63.9,Adequate,63.9,Adequate,76,Good,132,Good,24,Poor,1,1,0,0,Pass
+Module 3,Course 3,Session-B,Student 153,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,76.3,Good,76.3,Good,64,Adequate,140,Good,34,Adequate,5,0,1,4,Pass
+Module 3,Course 3,Session-B,Student 154,Adequate,1.75,1,Low,No,No,No,No,Yes,Yes,3,High,0,Low,86.5,Very Good,86.5,Very Good,66,Fair,315,Excellent,208,Very Good,2,0,0,1,Pass
+Module 3,Course 3,Session-B,Student 155,Adequate,2,1,Low,No,No,No,No,No,No,4,Low,0,Low,51.8,Adequate,51.8,Adequate,48,Fail,78,Fair,89,Fair,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 156,Adequate,2,1,Low,No,No,No,No,No,No,4,Low,0,Low,73.4,Fair,73.4,Fair,72,Fair,280,Very Good,326,Excellent,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 157,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,69.2,Fair,69.2,Fair,65,Adequate,112,Good,140,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-B,Student 158,Adequate,1.75,1,Low,No,No,No,No,Yes,Yes,2,Medium,0,Low,54.7,Adequate,54.7,Adequate,50,Adequate,168,Good,40,Adequate,2,0,0,1,Pass
+Module 3,Course 3,Session-B,Student 159,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,54.8,Adequate,54.8,Adequate,45,Fail,223,Very Good,205,Very Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 160,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,74,Good,67.5,Fair,65.5,Adequate,186,Good,112,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 161,Adequate,2,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,67,Fair,69,Fair,59.5,Adequate,166,Good,184,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 162,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,72,Fair,83,Very Good,87.5,Excellent,256,Very Good,214,Very Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 163,Good,3,1,Low,No,No,No,No,No,No,4,Low,0,Low,79,Good,64,Adequate,64,Adequate,223,Very Good,180,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 164,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,77,Good,70,Fair,71.5,Fair,316,Excellent,188,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 165,Very Good,3.25,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,31,Fail,56.1,Adequate,76,Good,96,Fair,191,Good,3,1,2,2,Pass
+Module 3,Course 3,Session-A,Student 166,Fair,2.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,70,Fair,83,Very Good,75.5,Good,386,Excellent,234,Very Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 167,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,76,Good,86,Very Good,60,Adequate,212,Very Good,256,Very Good,2,2,1,1,Pass
+Module 3,Course 3,Session-A,Student 168,Adequate,1.75,1,Low,No,No,No,No,No,No,4,Low,0,Low,69,Fair,61,Adequate,66.5,Fair,128,Good,160,Good,3,1,1,2,Pass
+Module 3,Course 3,Session-A,Student 169,Adequate,2,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,85,Very Good,81.7,Very Good,56.5,Adequate,229,Very Good,59,Fair,8,13,0,7,Fail
+Module 3,Course 3,Session-A,Student 170,Adequate,1.75,1,Low,No,No,No,No,Yes,No,2,Medium,1,Low,85,Very Good,96,Excellent,74,Good,189,Good,301,Excellent,5,3,0,4,Pass
+Module 3,Course 3,Session-A,Student 171,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,0,Low,75,Good,89,Excellent,52,Adequate,177,Good,289,Very Good,5,7,1,4,Pass
+Module 3,Course 3,Session-A,Student 172,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,69,Fair,80.8,Very Good,64,Adequate,157,Good,23,Poor,1,7,2,0,Pass
+Module 3,Course 3,Session-A,Student 173,Fair,2.25,1,Low,No,No,No,No,Yes,No,3,High,0,Low,73,Fair,79,Good,55.5,Adequate,169,Good,112,Good,1,1,0,0,Pass
+Module 3,Course 3,Session-A,Student 174,Fair,2.5,1,Low,No,No,No,No,No,No,4,Low,0,Low,52,Adequate,53,Adequate,41,Fail,151,Good,161,Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 175,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,65,Adequate,73,Fair,41,Fail,239,Very Good,152,Good,1,1,1,0,Pass
+Module 3,Course 3,Session-A,Student 176,Fair,2.25,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,65,Adequate,64,Adequate,66,Fair,143,Good,163,Good,6,7,0,5,Fail
+Module 3,Course 3,Session-A,Student 177,Adequate,2,1,Low,No,No,No,No,Yes,No,4,Low,0,Low,77,Good,84,Very Good,8,Fail,191,Good,27,Poor,1,0,1,0,Pass
+Module 3,Course 3,Session-A,Student 178,Adequate,2,1,Low,No,No,No,No,Yes,No,1,Low,0,Low,80,Very Good,85,Very Good,80.5,Very Good,272,Very Good,184,Good,3,0,1,2,Pass
+Module 3,Course 3,Session-A,Student 179,Very Good,3.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,59,Adequate,88,Excellent,70.5,Fair,157,Good,238,Very Good,1,0,1,0,Pass
+Module 3,Course 3,Session-A,Student 180,Adequate,1.75,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,78,Good,80,Very Good,60.5,Adequate,150,Good,210,Very Good,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 181,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,64,Adequate,55,Adequate,66,Fair,314,Excellent,0,Poor,1,0,0,0,Pass
+Module 3,Course 3,Session-A,Student 182,Fair,2.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,62,Adequate,71,Fair,48,Fail,152,Good,7,Poor,1,6,0,0,Pass
+Module 3,Course 3,Session-A,Student 183,Fair,2.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,64,Adequate,78,Good,10,Fail,232,Very Good,5,Poor,1,4,0,0,Pass
+Module 3,Course 3,Session-A,Student 184,Fair,2.5,1,Low,No,No,No,No,No,No,4,Low,0,Low,80,Very Good,84,Very Good,38,Fail,99,Fair,163,Good,1,3,1,0,Pass
+Module 3,Course 3,Session-A,Student 185,Good,2.75,1,Low,No,No,No,No,No,No,4,Low,0,Low,82,Very Good,60,Adequate,70,Fair,82,Fair,26,Poor,1,4,0,0,Pass
+Module 3,Course 3,Session-A,Student 186,Adequate,2,3,High,No,No,Yes,No,No,No,2,Medium,0,Low,75,Good,77,Good,30,Fail,136,Good,40,Adequate,1,5,0,0,Fail
+Module 3,Course 3,Session-A,Student 187,Good,3,1,Low,No,No,No,No,No,No,4,Low,0,Low,76,Good,88,Excellent,54,Adequate,189,Good,18,Poor,1,5,0,0,Pass
+Module 3,Course 3,Session-A,Student 188,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,88,Excellent,80,Very Good,75,Good,340,Excellent,11,Poor,1,5,0,0,Pass
+Module 1,Course 1,Session-A,Student 189,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,48.5,Fail,42.25,Fail,91,Excellent,360,Excellent,322,Excellent,1,2,0,0,Pass
+Module 1,Course 1,Session-A,Student 190,Adequate,1.75,2,Medium,No,No,No,No,Yes,No,2,Medium,0,Low,49.5,Fail,40.25,Fail,90,Excellent,122,Good,288,Very Good,2,0,2,1,Pass
+Module 1,Course 1,Session-A,Student 191,Adequate,2,1,Low,No,No,No,No,No,No,1,Low,0,Low,49.25,Fail,40.75,Fail,90,Excellent,91,Fair,275,Very Good,1,0,0,0,Pass
+Module 1,Course 1,Session-A,Student 192,Adequate,1.75,1,Low,No,No,Yes,No,No,No,3,High,1,Low,49,Fail,41,Fail,90,Excellent,72,Fair,235,Very Good,1,1,0,0,Pass
+Module 1,Course 1,Session-A,Student 193,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,46.5,Fail,40.25,Fail,87,Excellent,163,Good,370,Excellent,1,1,0,0,Pass
+Module 1,Course 1,Session-A,Student 194,Excellent,3.75,1,Low,No,No,No,No,No,No,1,Low,0,Low,48.5,Fail,37,Fail,86,Very Good,161,Good,18,Poor,3,1,2,2,Pass
+Module 1,Course 1,Session-A,Student 195,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,49.5,Fail,36.5,Fail,86,Very Good,202,Very Good,244,Very Good,1,0,0,0,Pass
+Module 1,Course 1,Session-A,Student 196,Adequate,1.75,2,Medium,No,No,No,No,Yes,Yes,2,Medium,0,Low,46.75,Fail,37,Fail,84,Very Good,350,Excellent,356,Excellent,2,2,1,1,Pass
+Module 1,Course 1,Session-A,Student 197,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,1,Low,45.5,Fail,37.5,Fail,83,Very Good,114,Good,307,Excellent,3,1,1,2,Pass
+Module 1,Course 1,Session-A,Student 198,Adequate,1.75,2,Medium,No,Yes,Yes,No,Yes,Yes,2,Medium,0,Low,46.25,Fail,36.25,Fail,83,Very Good,292,Very Good,271,Very Good,8,13,1,7,Pass
+Module 1,Course 1,Session-A,Student 199,Adequate,1.75,2,Medium,No,No,No,No,Yes,Yes,3,High,0,Low,45,Fail,36,Fail,81,Very Good,366,Excellent,388,Excellent,5,3,0,4,Pass
+Module 1,Course 1,Session-A,Student 200,Adequate,1.75,1,Low,No,No,Yes,No,No,No,3,High,0,Low,48.25,Fail,31.5,Fail,80,Very Good,117,Good,125,Good,5,7,1,4,Pass
+Module 1,Course 1,Session-A,Student 201,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,45,Fail,32.5,Fail,78,Good,327,Excellent,195,Good,1,7,2,0,Pass
+Module 1,Course 1,Session-A,Student 202,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,43.38,Fail,32.5,Fail,76,Good,59,Fair,75,Fair,1,1,1,0,Pass
+Module 1,Course 1,Session-A,Student 203,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,1,Low,47.75,Fail,26,Fail,74,Good,344,Excellent,304,Excellent,1,0,1,0,Pass
+Module 1,Course 1,Session-A,Student 204,Fair,2.25,2,Medium,No,No,No,No,Yes,No,2,Medium,0,Low,42,Fail,31.75,Fail,74,Good,3,Poor,126,Good,1,1,1,0,Pass
+Module 1,Course 1,Session-A,Student 205,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,42.5,Fail,27.5,Fail,70,Fair,344,Excellent,32,Adequate,6,7,0,5,Pass
+Module 1,Course 1,Session-A,Student 206,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,1,Low,40.25,Fail,29.25,Fail,70,Fair,6,Poor,360,Excellent,1,0,1,0,Pass
+Module 1,Course 1,Session-A,Student 207,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,43.75,Fail,26.5,Fail,70,Fair,255,Very Good,107,Good,3,0,1,2,Pass
+Module 1,Course 1,Session-A,Student 208,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,29,Fail,34,Fail,63,Adequate,35,Adequate,108,Good,5,0,1,3,Pass
+Module 1,Course 1,Session-A,Student 209,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,18,Fail,36,Fail,54,Adequate,332,Excellent,256,Very Good,1,4,3,3,Pass
+Module 1,Course 1,Session-A,Student 210,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,16,Fail,18,Fail,34,Fail,158,Good,20,Poor,5,0,2,5,Fail
+Module 1,Course 1,Session-A,Student 211,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,15,Fail,28,Fail,43,Fail,345,Excellent,90,Fair,5,0,1,3,Fail
+Module 1,Course 1,Session-A,Student 212,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,20,Fail,34,Fail,54,Adequate,352,Excellent,459,Excellent,4,0,2,3,Pass
+Module 1,Course 1,Session-A,Student 213,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,17,Fail,24,Fail,41,Fail,103,Good,112,Good,5,1,3,3,Fail
+Module 1,Course 1,Session-A,Student 214,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,11,Fail,28,Fail,40,Fail,432,Excellent,60,Fair,0,2,0,3,Fail
+Module 1,Course 1,Session-A,Student 215,Adequate,1.75,1,Low,No,No,No,No,Yes,No,2,Medium,1,Low,16,Fail,24,Fail,40,Fail,260,Very Good,22,Poor,4,3,2,5,Fail
+Module 1,Course 1,Session-A,Student 216,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,26,Fail,33,Fail,59,Adequate,216,Very Good,155,Good,5,0,3,4,Pass
+Module 1,Course 1,Session-A,Student 217,Adequate,1.75,2,Low,No,No,No,No,Yes,No,2,Medium,1,Low,24,Fail,36,Fail,61,Adequate,267,Very Good,345,Excellent,5,3,0,5,Pass
+Module 1,Course 1,Session-A,Student 218,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,19,Fail,31,Fail,50,Adequate,22,Poor,66,Fair,3,5,1,0,Pass
+Module 1,Course 1,Session-A,Student 219,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,23,Fail,31,Fail,53,Adequate,134,Good,447,Excellent,3,2,3,3,Pass
+Module 1,Course 1,Session-A,Student 220,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,21,Fail,32,Fail,53,Adequate,276,Very Good,412,Excellent,3,5,1,5,Pass
+Module 1,Course 1,Session-A,Student 221,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,1,Low,24,Fail,34,Fail,58,Adequate,81,Fair,111,Good,1,3,3,3,Pass
+Module 1,Course 1,Session-A,Student 222,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,23,Fail,30,Fail,53,Adequate,91,Fair,398,Excellent,4,0,3,1,Pass
+Module 1,Course 1,Session-A,Student 223,Adequate,2,1,Low,No,No,No,No,Yes,No,2,Medium,1,Low,19,Fail,18,Fail,36,Fail,236,Very Good,323,Excellent,5,0,2,2,Fail
+Module 1,Course 1,Session-A,Student 224,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,1,Low,26,Fail,33,Fail,59,Adequate,426,Excellent,18,Poor,0,2,2,1,Pass
+Module 1,Course 1,Session-A,Student 225,Adequate,1.75,2,Low,No,Yes,No,No,Yes,No,1,Low,1,Low,19,Fail,26,Fail,45,Fail,459,Excellent,132,Good,0,5,3,1,Fail
+Module 1,Course 1,Session-A,Student 226,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,1,Low,27,Fail,37,Fail,64,Adequate,464,Excellent,459,Excellent,0,3,2,0,Pass
+Module 1,Course 1,Session-A,Student 227,Adequate,1.75,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,24,Fail,32,Fail,55,Adequate,278,Very Good,219,Very Good,4,0,0,2,Pass
+Module 1,Course 1,Session-A,Student 228,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,26,Fail,33,Fail,59,Adequate,304,Excellent,336,Excellent,4,0,2,3,Pass
+Module 1,Course 1,Session-A,Student 229,Excellent,3.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,16,Fail,18,Fail,34,Fail,475,Excellent,203,Very Good,4,4,0,3,Fail
+Module 1,Course 1,Session-A,Student 230,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,27,Fail,37,Fail,64,Adequate,153,Good,295,Very Good,1,2,1,0,Pass
+Module 1,Course 1,Session-A,Student 231,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,18,Fail,36,Fail,54,Adequate,445,Excellent,366,Excellent,2,1,2,4,Pass
+Module 1,Course 1,Session-A,Student 232,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,21,Fail,23,Fail,58,Adequate,299,Very Good,56,Fair,2,1,1,2,Pass
+Module 1,Course 1,Session-A,Student 233,Very Good,3.25,1,Low,No,No,No,No,Yes,Yes,3,High,0,Low,28,Fail,25,Fail,50,Adequate,461,Excellent,103,Good,3,0,2,0,Pass
+Module 1,Course 1,Session-A,Student 234,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,0,Low,21,Fail,24,Fail,48,Fail,388,Excellent,258,Very Good,2,2,1,0,Fail
+Module 1,Course 1,Session-A,Student 235,Good,3,1,Low,No,No,No,No,Yes,Yes,3,High,0,Low,21,Fail,24,Fail,60,Adequate,30,Adequate,351,Excellent,3,5,3,3,Pass
+Module 1,Course 1,Session-A,Student 236,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,0,Low,20,Fail,23,Fail,54,Adequate,299,Very Good,54,Fair,0,0,3,0,Pass
+Module 1,Course 1,Session-A,Student 237,Very Good,3.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,20,Fail,23,Fail,54,Adequate,288,Very Good,274,Very Good,4,0,3,3,Pass
+Module 1,Course 1,Session-A,Student 238,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,24,Fail,25,Fail,54,Adequate,323,Excellent,177,Good,1,2,2,1,Pass
+Module 1,Course 1,Session-A,Student 239,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,22,Fail,23,Fail,58,Adequate,165,Good,108,Good,1,3,2,5,Pass
+Module 1,Course 1,Session-A,Student 240,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,26,Fail,25,Fail,48,Fail,177,Good,299,Very Good,2,2,3,0,Fail
+Module 1,Course 1,Session-A,Student 241,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,34,Fail,27,Fail,56,Adequate,376,Excellent,452,Excellent,0,0,1,2,Pass
+Module 1,Course 1,Session-A,Student 242,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,32,Fail,26,Fail,38,Fail,497,Excellent,175,Good,0,1,0,0,Fail
+Module 1,Course 1,Session-A,Student 243,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,22,Fail,24,Fail,52,Adequate,226,Very Good,20,Poor,1,2,3,1,Pass
+Module 1,Course 1,Session-A,Student 244,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,24,Fail,24,Fail,38,Fail,14,Poor,187,Good,3,0,0,3,Fail
+Module 1,Course 1,Session-A,Student 245,Adequate,2,1,Low,No,No,No,No,Yes,No,2,Medium,1,Low,28,Fail,25,Fail,36,Fail,89,Fair,254,Very Good,5,3,1,1,Fail
+Module 1,Course 1,Session-A,Student 246,Adequate,2,2,Low,No,No,No,No,No,No,2,Medium,0,Low,26,Fail,24,Fail,48,Fail,53,Fair,348,Excellent,2,1,1,2,Fail
+Module 1,Course 1,Session-A,Student 247,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,21,Fail,22,Fail,52,Adequate,252,Very Good,467,Excellent,5,0,3,2,Pass
+Module 1,Course 1,Session-A,Student 248,Good,2.75,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,27,Fail,25,Fail,46,Fail,325,Excellent,395,Excellent,3,5,3,1,Fail
+Module 1,Course 1,Session-A,Student 249,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,1,Low,18,Fail,24,Fail,42,Fail,182,Good,246,Very Good,5,4,3,1,Fail
+Module 1,Course 1,Session-A,Student 250,Adequate,2,1,Low,No,No,No,Yes,No,No,2,Medium,1,Low,19,Fail,25,Fail,54,Adequate,36,Adequate,318,Excellent,0,0,3,1,Pass
+Module 1,Course 1,Session-A,Student 251,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,25,Fail,26,Fail,40,Fail,195,Good,435,Excellent,4,1,2,3,Fail
+Module 1,Course 1,Session-A,Student 252,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,27,Fail,26,Fail,30,Fail,352,Excellent,450,Excellent,5,1,3,4,Fail
+Module 1,Course 1,Session-A,Student 253,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,21,Fail,22,Fail,40,Fail,107,Good,62,Fair,4,3,2,3,Fail
+Module 1,Course 1,Session-A,Student 254,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,21,Fail,26,Fail,34,Fail,19,Poor,410,Excellent,2,4,2,0,Fail
+Module 1,Course 1,Session-A,Student 255,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,19,Fail,26,Fail,22,Fail,261,Very Good,332,Excellent,4,5,0,1,Fail
+Module 1,Course 1,Session-A,Student 256,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,21,Fail,27,Fail,16,Fail,266,Very Good,135,Good,5,3,3,4,Fail
+Module 1,Course 1,Session-A,Student 257,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,1,Low,34,Fail,36,Fail,52,Adequate,25,Poor,170,Good,3,1,1,0,Pass
+Module 1,Course 1,Session-A,Student 258,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,21,Fail,24,Fail,60,Adequate,264,Very Good,31,Adequate,4,4,3,0,Pass
+Module 1,Course 1,Session-A,Student 259,Excellent,3.75,1,Low,No,No,No,No,Yes,Yes,4,Low,0,Low,20,Fail,23,Fail,54,Adequate,182,Good,254,Very Good,1,2,1,4,Pass
+Module 1,Course 1,Session-A,Student 260,Adequate,1.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,20,Fail,23,Fail,54,Adequate,233,Very Good,195,Good,3,3,1,2,Pass
+Module 1,Course 1,Session-A,Student 261,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,24,Fail,25,Fail,54,Adequate,497,Excellent,463,Excellent,1,5,0,2,Pass
+Module 1,Course 1,Session-A,Student 262,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,1,Low,32,Fail,32,Fail,64,Adequate,313,Excellent,380,Excellent,3,3,1,5,Pass
+Module 1,Course 1,Session-A,Student 263,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,22,Fail,21,Fail,48,Fail,254,Very Good,404,Excellent,5,1,2,5,Fail
+Module 1,Course 1,Session-A,Student 264,Very Good,3.25,1,Low,No,No,No,No,Yes,Yes,2,Medium,0,Low,25,Fail,26,Fail,40,Fail,2,Poor,376,Excellent,1,2,0,3,Fail
+Module 1,Course 1,Session-A,Student 265,Adequate,1.75,1,Low,No,No,No,No,No,No,3,High,1,Low,21,Fail,24,Fail,60,Adequate,200,Very Good,40,Adequate,4,3,0,4,Pass
+Module 1,Course 1,Session-A,Student 266,Very Good,3.5,1,Low,No,No,No,No,No,No,3,High,0,Low,20,Fail,23,Fail,54,Adequate,155,Good,270,Very Good,2,1,3,2,Pass
+Module 1,Course 1,Session-A,Student 267,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,1,Low,20,Fail,23,Fail,54,Adequate,189,Good,87,Fair,1,0,2,3,Pass
+Module 1,Course 1,Session-A,Student 268,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,26,Fail,31,Fail,56,Adequate,131,Good,368,Excellent,3,4,1,2,Pass
+Module 1,Course 1,Session-A,Student 269,Very Good,3.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,26,Fail,32,Fail,58,Adequate,145,Good,237,Very Good,2,3,2,5,Pass
+Module 1,Course 1,Session-A,Student 270,Very Good,3.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,17,Fail,20,Fail,37,Fail,145,Good,578,Excellent,2,4,3,1,Fail
+Module 1,Course 1,Session-A,Student 271,Excellent,4,1,Low,No,No,No,No,No,No,3,High,0,Low,26,Fail,22,Fail,48,Fail,556,Excellent,85,Fair,2,2,1,2,Fail
+Module 1,Course 1,Session-A,Student 272,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,15,Fail,17,Fail,32,Fail,170,Good,289,Very Good,4,2,1,0,Fail
+Module 1,Course 1,Session-A,Student 273,Fair,2.5,1,Low,No,No,No,No,No,No,4,Low,0,Low,18,Fail,24,Fail,42,Fail,192,Good,165,Good,5,5,2,3,Fail
+Module 1,Course 1,Session-A,Student 274,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,21,Fail,20,Fail,41,Fail,597,Excellent,172,Good,1,5,2,4,Fail
+Module 1,Course 1,Session-A,Student 275,Good,3,1,Low,No,No,No,No,No,No,4,Low,0,Low,24,Fail,30,Fail,54,Adequate,526,Excellent,170,Good,1,3,1,0,Pass
+Module 1,Course 1,Session-A,Student 276,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,17,Fail,28,Fail,45,Fail,430,Excellent,586,Excellent,0,4,0,0,Fail
+Module 1,Course 1,Session-A,Student 277,Very Good,3.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,15,Fail,24,Fail,39,Fail,83,Fair,191,Good,0,3,1,1,Fail
+Module 1,Course 1,Session-A,Student 278,Adequate,2,1,Low,No,No,No,No,No,No,4,Low,1,Low,26,Fail,38,Fail,64,Adequate,587,Excellent,320,Excellent,1,3,3,0,Pass
+Module 1,Course 1,Session-A,Student 279,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,17,Fail,29,Fail,46,Fail,468,Excellent,213,Very Good,0,3,0,4,Fail
+Module 1,Course 1,Session-A,Student 280,Adequate,2,2,Low,No,No,No,Yes,Yes,No,1,Low,0,Low,24,Fail,32,Fail,56,Adequate,184,Good,129,Good,1,1,3,2,Pass
+Module 1,Course 1,Session-A,Student 281,Fair,2.25,2,Low,No,No,No,No,Yes,No,1,Low,1,Low,26,Fail,25,Fail,50,Adequate,140,Good,197,Good,0,4,3,3,Pass
+Module 1,Course 1,Session-A,Student 282,Good,3,1,Low,No,No,No,No,No,No,2,Medium,0,Low,26,Fail,28,Fail,54,Adequate,258,Very Good,162,Good,2,1,0,4,Pass
+Module 1,Course 1,Session-A,Student 283,Good,3,1,Low,No,No,No,No,No,No,1,Low,0,Low,26,Fail,0,Fail,26,Fail,122,Good,587,Excellent,0,1,0,4,Fail
+Module 1,Course 1,Session-A,Student 284,Fair,2.25,1,Low,No,No,No,No,No,No,4,Low,1,Low,26,Fail,28,Fail,54,Adequate,23,Poor,336,Excellent,0,2,2,2,Pass
+Module 1,Course 1,Session-A,Student 285,Good,3,1,Low,No,No,No,No,No,No,3,High,1,Low,20,Fail,26,Fail,46,Fail,368,Excellent,394,Excellent,1,1,2,4,Fail
+Module 1,Course 1,Session-A,Student 286,Fair,2.25,1,Low,No,No,No,No,No,No,2,Medium,0,Low,20,Fail,35,Fail,55,Adequate,441,Excellent,73,Fair,5,5,1,4,Pass
+Module 1,Course 1,Session-A,Student 287,Good,2.75,1,Low,No,No,No,No,No,No,3,High,0,Low,24,Fail,33,Fail,57,Adequate,239,Very Good,358,Excellent,5,5,0,0,Pass
+Module 1,Course 1,Session-A,Student 288,Adequate,2,1,Low,No,No,Yes,No,Yes,No,4,Low,1,Low,24,Fail,31,Fail,55,Adequate,445,Excellent,40,Adequate,3,3,2,5,Pass
+Module 1,Course 1,Session-A,Student 289,Very Good,3.25,1,Low,No,No,No,No,No,No,4,Low,0,Low,15,Fail,33,Fail,48,Fail,337,Excellent,268,Very Good,1,2,1,0,Pass
+Module 1,Course 1,Session-A,Student 290,Fair,2.5,1,Low,No,No,No,No,No,No,1,Low,0,Low,29,Fail,29,Fail,57,Adequate,240,Very Good,284,Very Good,3,0,0,5,Pass
+Module 1,Course 1,Session-A,Student 291,Fair,2.5,1,Low,No,No,No,No,No,No,1,Low,1,Low,30,Fail,24,Fail,54,Adequate,194,Good,17,Poor,2,2,0,0,Pass
+Module 1,Course 1,Session-A,Student 292,Good,3,1,Low,No,No,No,No,Yes,No,2,Medium,0,Low,24,Fail,35,Fail,59,Adequate,513,Excellent,371,Excellent,1,0,2,2,Pass
+Module 1,Course 1,Session-A,Student 293,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,56,Adequate,40,Fail,54,Adequate,251,Very Good,483,Excellent,1,5,3,0,Pass
+Module 1,Course 1,Session-A,Student 294,Fair,2.25,1,Low,Yes,No,No,No,No,No,3,High,1,Low,38,Fail,48,Fail,54,Adequate,10,Poor,146,Good,1,3,3,4,Pass
+Module 1,Course 1,Session-A,Student 295,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,62,Adequate,44,Fail,52,Adequate,288,Very Good,401,Excellent,0,3,0,0,Pass
+Module 1,Course 1,Session-A,Student 296,Excellent,3.75,1,Low,No,No,No,No,No,No,3,High,0,Low,62,Adequate,44,Fail,54,Adequate,154,Good,278,Very Good,5,0,1,4,Pass
+Module 1,Course 1,Session-A,Student 297,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,48,Fail,32,Fail,58,Adequate,147,Good,495,Excellent,4,2,3,5,Pass
+Module 1,Course 1,Session-A,Student 298,Adequate,2,1,Low,No,No,No,No,No,No,2,Medium,0,Low,54,Adequate,48,Fail,48,Fail,222,Very Good,227,Very Good,5,4,1,2,Pass
+Module 1,Course 1,Session-A,Student 299,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,24,Fail,24,Fail,50,Adequate,411,Excellent,257,Very Good,1,0,3,2,Pass
+Module 1,Course 1,Session-A,Student 300,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,58,Adequate,50,Adequate,40,Fail,196,Good,384,Excellent,1,0,3,5,Pass
+Module 1,Course 1,Session-A,Student 301,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,1,Low,52,Adequate,40,Fail,52,Adequate,85,Fair,376,Excellent,2,2,0,4,Pass
+Module 1,Course 1,Session-A,Student 302,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,32,Fail,24,Fail,52,Adequate,249,Very Good,422,Excellent,3,2,1,5,Pass
+Module 1,Course 1,Session-A,Student 303,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,22,Fail,20,Fail,48,Fail,76,Fair,473,Excellent,1,5,1,5,Fail
+Module 1,Course 1,Session-A,Student 304,Adequate,1.75,1,Low,No,No,No,No,Yes,No,3,High,0,Low,52,Adequate,54,Adequate,40,Fail,435,Excellent,153,Good,3,5,3,0,Pass
+Module 1,Course 1,Session-A,Student 305,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,62,Adequate,52,Adequate,44,Fail,369,Excellent,418,Excellent,0,2,1,3,Pass
+Module 1,Course 1,Session-A,Student 306,Adequate,1.75,1,Low,No,No,No,No,Yes,No,3,High,1,Low,64,Adequate,58,Adequate,42,Fail,182,Good,236,Very Good,4,0,1,3,Pass
+Module 1,Course 1,Session-A,Student 307,Adequate,2,1,Low,No,No,No,No,Yes,No,3,High,0,Low,56,Adequate,42,Fail,44,Fail,413,Excellent,318,Excellent,0,4,2,2,Pass
+Module 1,Course 1,Session-A,Student 308,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,48,Fail,34,Fail,38,Fail,6,Poor,145,Good,4,3,2,5,Fail
+Module 1,Course 1,Session-A,Student 309,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,0,Low,48,Fail,42,Fail,52,Adequate,102,Good,9,Poor,5,2,3,4,Pass
+Module 1,Course 1,Session-A,Student 310,Fair,2.5,1,Low,No,No,No,No,No,No,2,Medium,0,Low,60,Adequate,34,Fail,50,Adequate,436,Excellent,397,Excellent,0,2,2,3,Pass
+Module 1,Course 1,Session-A,Student 311,Good,2.75,1,Low,No,No,No,No,No,No,2,Medium,1,Low,66,Fair,60,Adequate,40,Fail,296,Very Good,471,Excellent,0,0,1,5,Pass
+Module 1,Course 1,Session-A,Student 312,Excellent,3.75,1,Low,No,No,No,No,No,No,3,High,0,Low,48,Fail,32,Fail,42,Fail,13,Poor,404,Excellent,3,2,0,2,Fail
+Module 1,Course 1,Session-A,Student 313,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,66,Fair,52,Adequate,32,Fail,114,Good,195,Good,4,5,2,5,Pass
+Module 1,Course 1,Session-A,Student 314,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,44,Fail,32,Fail,44,Fail,455,Excellent,142,Good,5,4,2,2,Fail
+Module 1,Course 1,Session-A,Student 315,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,1,Low,44,Fail,38,Fail,34,Fail,245,Very Good,229,Very Good,3,0,1,4,Fail
+Module 1,Course 1,Session-A,Student 316,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,66,Fair,34,Fail,40,Fail,317,Excellent,203,Very Good,3,3,3,0,Pass
+Module 1,Course 1,Session-A,Student 317,Adequate,1.75,1,Low,No,Yes,Yes,No,Yes,No,2,Medium,1,Low,64,Adequate,46,Fail,40,Fail,320,Excellent,253,Very Good,2,2,0,3,Pass
+Module 1,Course 1,Session-A,Student 318,Very Good,3.25,1,Low,No,No,No,No,No,No,3,High,0,Low,40,Fail,20,Fail,42,Fail,421,Excellent,74,Fair,3,5,0,3,Fail
+Module 1,Course 1,Session-A,Student 319,Good,3,1,Low,No,No,No,No,No,No,3,High,0,Low,54,Adequate,30,Fail,48,Fail,377,Excellent,133,Good,2,4,2,3,Pass
+Module 1,Course 1,Session-A,Student 320,Adequate,2,1,Low,No,No,No,No,No,No,3,High,0,Low,44,Fail,42,Fail,30,Fail,349,Excellent,79,Fair,4,2,1,5,Fail
+Module 1,Course 1,Session-A,Student 321,Fair,2.5,1,Low,No,No,No,No,No,No,3,High,0,Low,78,Good,58,Adequate,40,Fail,175,Good,89,Fair,4,4,3,2,Pass
+Module 1,Course 1,Session-A,Student 322,Fair,2.25,1,Low,No,No,No,No,No,No,3,High,0,Low,62,Adequate,46,Fail,44,Fail,292,Very Good,338,Excellent,5,2,2,0,Pass
+Module 1,Course 1,Session-A,Student 323,Adequate,2,5,Low,No,Yes,Yes,No,Yes,No,1,Low,0,Low,57,Adequate,39,Fail,78,Good,22,Poor,431,Excellent,1,5,3,0,Pass
+Module 1,Course 1,Session-A,Student 324,Adequate,2,1,Low,No,No,No,No,No,No,3,High,1,Low,63.75,Adequate,45,Fail,64,Adequate,364,Excellent,426,Excellent,1,3,3,4,Pass
+Module 1,Course 1,Session-A,Student 325,Good,3,1,Low,No,No,No,No,Yes,No,1,Low,0,Low,57,Adequate,37.5,Fail,63,Adequate,185,Good,216,Very Good,0,3,0,0,Pass
+Module 1,Course 1,Session-A,Student 326,Adequate,2,2,Low,No,No,Yes,No,Yes,No,3,High,0,Low,47.25,Fail,65.25,Adequate,34,Fail,456,Excellent,264,Very Good,5,0,1,4,Fail

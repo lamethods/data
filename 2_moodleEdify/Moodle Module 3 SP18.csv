@@ -1,0 +1,725 @@
+Time,User full name,Affected user,Event context,Component,Event name,Description,Origin,IP address
+"12/07/18, 12:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"12/07/18, 12:08",-,-,File: Lecture 5,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"10/07/18, 11:16",-,-,File: Lecture 7,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3119'.,web,192.168.99.3
+"10/07/18, 06:00",-,-,File: Lecture 6,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"10/07/18, 05:59",-,-,File: Lecture 8,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3118'.,web,192.168.99.3
+"10/07/18, 05:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"9/07/18, 21:19",-,-,File: Lecture 8,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3118' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 22:40",-,-,File: Lecture 8,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3118' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 22:40",-,-,File: Lecture 8,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3118'.,web,192.168.99.3
+"8/07/18, 10:33",-,-,File: Lecture 7,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3119' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 10:32",-,-,File: Lecture 7,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3119' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 10:03",-,-,File: Lecture 7,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3119'.,web,192.168.99.3
+"8/07/18, 10:02",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 09:10",-,-,File: Lecture 5,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"8/07/18, 09:10",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3125' for the user with id '3247'.,web,192.168.99.3
+"8/07/18, 09:10",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3125' for the user with id '3247'.,web,192.168.99.3
+"8/07/18, 09:10",-,-,File: Lecture 5,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"8/07/18, 09:10",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 08:53",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3122' for the user with id '394'.,web,192.168.99.3
+"8/07/18, 08:53",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3122' for the user with id '394'.,web,192.168.99.3
+"8/07/18, 08:53",-,-,File: Lecture 4,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 08:46",-,-,File: Lecture 6,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"8/07/18, 08:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 08:46",-,-,URL: Business Models on the Web,URL,Course module viewed,The user with id '394' viewed the 'url' activity with course module id '5253'.,web,192.168.99.3
+"8/07/18, 07:47",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3120' for the user with id '394'.,web,192.168.99.3
+"8/07/18, 07:47",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3120' for the user with id '394'.,web,192.168.99.3
+"8/07/18, 07:36",-,-,File: Lecture 6,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"8/07/18, 07:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"8/07/18, 07:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 07:35",-,-,File: Lecture 5,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"8/07/18, 07:34",-,-,File: Lecture 4,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 07:34",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 07:32",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 07:32",-,-,File: Lecture 4,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 07:31",-,-,File: Lecture 2,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"8/07/18, 07:31",-,-,File: Lecture 1,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"8/07/18, 06:55",-,-,File: Lecture 8,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3118'.,web,192.168.99.3
+"8/07/18, 06:54",-,-,File: Lecture 7,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3119'.,web,192.168.99.3
+"8/07/18, 06:54",-,-,File: Lecture 6,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"8/07/18, 03:27",-,-,File: Lecture 5,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"8/07/18, 03:25",-,-,File: Lecture 4,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 03:25",-,-,File: Lecture 3,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"8/07/18, 03:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 03:24",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3122' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 03:24",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3122' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 03:23",-,-,File: Lecture 4,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 03:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 03:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 03:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 03:22",-,-,File: Lecture 3,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"8/07/18, 03:22",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"8/07/18, 03:21",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"8/07/18, 03:20",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3114' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 03:20",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3114' for the user with id '5104'.,web,192.168.99.3
+"8/07/18, 03:19",-,-,File: Lecture 1,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"8/07/18, 03:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 01:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"8/07/18, 01:28",-,-,Assignment: Reflections on Social media,Assignment,The status of the submission has been viewed.,The user with id '5090' has viewed the submission status page for the assignment with course module id '11792'.,web,192.168.99.3
+"8/07/18, 01:27",-,-,File: Lecture 8,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3118' for the user with id '5090'.,web,192.168.99.3
+"8/07/18, 01:27",-,-,File: Lecture 8,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3118' for the user with id '5090'.,web,192.168.99.3
+"8/07/18, 00:11",-,-,File: Lecture 8,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3118'.,web,192.168.99.3
+"8/07/18, 00:11",-,-,File: Lecture 7,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3119' for the user with id '5090'.,web,192.168.99.3
+"8/07/18, 00:03",-,-,File: Lecture 7,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3119' for the user with id '5090'.,web,192.168.99.3
+"8/07/18, 00:03",-,-,File: Lecture 7,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3119'.,web,192.168.99.3
+"8/07/18, 00:01",-,-,File: Lecture 6,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"8/07/18, 00:01",-,-,File: Lecture 5,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"8/07/18, 00:01",-,-,File: Lecture 4,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"8/07/18, 00:00",-,-,File: Lecture 3,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"7/07/18, 23:59",-,-,File: Lecture 2,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"7/07/18, 23:58",-,-,File: Lecture 1,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"7/07/18, 23:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:55",-,-,File: Lecture 3,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"7/07/18, 23:55",-,-,File: Lecture 2,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"7/07/18, 23:55",-,-,File: Lecture 1,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"7/07/18, 23:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:42",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 23:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:33",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 23:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:30",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 23:27",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 23:27",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 22:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 22:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"7/07/18, 22:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 22:22",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 22:22",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 20:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 20:39",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 20:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 20:39",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 20:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 20:35",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 20:33",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'E commerce',web,192.168.99.3
+"7/07/18, 20:32",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'E commerce',web,192.168.99.3
+"7/07/18, 20:32",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 20:18",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3120' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 20:17",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3120' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 20:16",-,-,File: Lecture 6,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"7/07/18, 19:36",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3125' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 19:36",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3125' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 19:32",-,-,File: Lecture 5,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"7/07/18, 19:32",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3116' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 19:31",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3116' for the user with id '5104'.,web,192.168.99.3
+"7/07/18, 19:30",-,-,File: Lecture 3,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"7/07/18, 19:29",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 19:29",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 19:28",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 19:27",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 18:26",-,-,File: Case Study,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"7/07/18, 18:02",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 18:01",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 13:46",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 13:46",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 13:46",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'case study',web,192.168.99.3
+"7/07/18, 13:46",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'case study',web,192.168.99.3
+"7/07/18, 13:45",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 13:45",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 12:19",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3120' for the user with id '3247'.,web,192.168.99.3
+"7/07/18, 12:18",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3120' for the user with id '3247'.,web,192.168.99.3
+"7/07/18, 12:18",-,-,File: Lecture 6,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"7/07/18, 12:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 12:03",-,-,File: Case Study,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"7/07/18, 11:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:49",-,-,File: Case Study,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"7/07/18, 11:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:16",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 11:16",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:15",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 11:15",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:10",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:07",-,-,File: Case Study,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"7/07/18, 11:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:06",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 11:04",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 11:04",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '394' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"7/07/18, 11:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 10:13",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'report case study',web,192.168.99.3
+"7/07/18, 10:12",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'report case study',web,192.168.99.3
+"7/07/18, 10:12",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 09:40",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 09:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"7/07/18, 09:03",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 09:02",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin 'E-COMMERCE',web,192.168.99.3
+"7/07/18, 09:02",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'E-COMMERCE',web,192.168.99.3
+"7/07/18, 09:02",-,-,File: Case Study,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"7/07/18, 08:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"7/07/18, 01:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 01:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 00:13",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"7/07/18, 00:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"7/07/18, 00:05",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'E-COMMERCE TECHNOLOGIES',web,192.168.99.3
+"7/07/18, 00:05",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'E-COMMERCE TECHNOLOGIES',web,192.168.99.3
+"6/07/18, 23:57",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 23:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 21:48",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 21:48",-,-,File: Case Study,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"6/07/18, 21:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 21:34",-,-,File: Student Declaration for Coursework,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1463'.,web,192.168.99.3
+"6/07/18, 21:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 21:28",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 21:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 21:27",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 18:20",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 18:20",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '3247' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:18",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 18:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:17",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"6/07/18, 18:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:16",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 18:16",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 18:15",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin '2',web,192.168.99.3
+"6/07/18, 17:50",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission '2',web,192.168.99.3
+"6/07/18, 17:41",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'jomana14f12456',web,192.168.99.3
+"6/07/18, 17:41",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,Add Submission,User added submission 'jomana14f12456',web,192.168.99.3
+"6/07/18, 17:41",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 17:41",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 17:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 17:34",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 17:34",-,-,Assignment: Reflections on Social media,Assignment,The status of the submission has been viewed.,The user with id '2672' has viewed the submission status page for the assignment with course module id '11792'.,web,192.168.99.3
+"6/07/18, 17:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 17:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 17:05",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 14:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 14:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 13:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 13:36",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"6/07/18, 10:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 10:57",-,-,Assignment: Reflections on Social media,Assignment,The status of the submission has been viewed.,The user with id '3247' has viewed the submission status page for the assignment with course module id '11792'.,web,192.168.99.3
+"6/07/18, 10:56",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"6/07/18, 10:56",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1580' for the user with id '3247'.,web,192.168.99.3
+"6/07/18, 10:56",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1580' for the user with id '3247'.,web,192.168.99.3
+"5/07/18, 23:10",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1580'.,web,192.168.99.3
+"5/07/18, 23:02",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 23:02",-,-,File: Student Declaration for Coursework,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1463' for the user with id '3247'.,web,192.168.99.3
+"5/07/18, 23:02",-,-,File: Student Declaration for Coursework,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1463' for the user with id '3247'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,File: Student Declaration for Coursework,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1463'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,File: CW Questionnaire,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1462' for the user with id '3247'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,File: CW Questionnaire,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1462' for the user with id '3247'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,File: CW Questionnaire,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1462'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 23:01",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3120' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 23:00",-,-,File: Lecture 6,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3120' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 20:40",-,-,File: Lecture 6,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3120'.,web,192.168.99.3
+"5/07/18, 20:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 20:39",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3125' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 20:39",-,-,File: Lecture 5,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3125' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 20:39",-,-,File: Lecture 5,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3125'.,web,192.168.99.3
+"5/07/18, 20:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 19:27",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3122' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 19:26",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3122' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 19:24",-,-,File: Lecture 4,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"5/07/18, 19:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 19:17",-,-,File: Lecture 2,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"5/07/18, 19:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 19:17",-,-,Assignment: Reflections on Social media,Assignment,The status of the submission has been viewed.,The user with id '5104' has viewed the submission status page for the assignment with course module id '11792'.,web,192.168.99.3
+"5/07/18, 19:17",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3116' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 15:35",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3116' for the user with id '5090'.,web,192.168.99.3
+"5/07/18, 15:35",-,-,File: Lecture 3,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"5/07/18, 15:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 15:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 15:34",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"5/07/18, 00:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:38",-,-,Turnitin Assignment 2: Case Study,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"5/07/18, 00:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:36",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Badge listing viewed,The user with id '2672' has viewed the list of available badges for the course with the id '177'.,web,192.168.99.3
+"5/07/18, 00:35",-,-,Assignment: Reflections on Social media,Assignment,The status of the submission has been viewed.,The user with id '2672' has viewed the submission status page for the assignment with course module id '11792'.,web,192.168.99.3
+"5/07/18, 00:34",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:34",-,-,File: Case Study,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"5/07/18, 00:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:33",-,-,File: Case Study,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"5/07/18, 00:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"5/07/18, 00:31",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin 'Case Study Spring - 2019',web,192.168.99.3
+"5/07/18, 00:30",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'Case Study Spring - 2019',web,192.168.99.3
+"4/07/18, 23:52",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 23:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 23:49",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Case Study Spring - 2019',web,192.168.99.3
+"4/07/18, 23:49",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'Case Study Spring - 2019',web,192.168.99.3
+"4/07/18, 23:48",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 23:48",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'case study proposal',web,192.168.99.3
+"4/07/18, 23:46",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'case study proposal',web,192.168.99.3
+"4/07/18, 23:39",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 23:39",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 23:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 23:38",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 23:37",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Case Study huda 16f15562',web,192.168.99.3
+"4/07/18, 23:36",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'Case Study huda 16f15562',web,192.168.99.3
+"4/07/18, 21:39",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 21:39",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 21:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 21:38",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 21:38",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Work Proposal',web,192.168.99.3
+"4/07/18, 21:38",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'Work Proposal',web,192.168.99.3
+"4/07/18, 21:37",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 21:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 21:36",-,-,File: Case Study,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"4/07/18, 21:36",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 21:09",-,-,File: Case Study,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '10077' for the user with id '2684'.,web,192.168.99.3
+"4/07/18, 17:22",-,-,File: Case Study,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '10077' for the user with id '2684'.,web,192.168.99.3
+"4/07/18, 17:21",-,-,File: Case Study,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"4/07/18, 17:21",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 17:19",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"4/07/18, 17:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 17:05",-,-,File: Case Study,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"4/07/18, 12:16",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 12:16",-,-,File: Case Study,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '10077' for the user with id '5090'.,web,192.168.99.3
+"4/07/18, 12:16",-,-,File: Case Study,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '10077' for the user with id '5090'.,web,192.168.99.3
+"4/07/18, 12:16",-,-,File: Case Study,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"4/07/18, 12:16",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"4/07/18, 12:15",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 21:42",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'proposal',web,192.168.99.3
+"3/07/18, 21:22",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'proposal',web,192.168.99.3
+"3/07/18, 21:22",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 21:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 21:19",-,-,File: Case Study,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"3/07/18, 21:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 21:18",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 18:05",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 18:05",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 18:02",-,-,File: Case Study,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"3/07/18, 17:53",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 17:52",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 09:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 03:13",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 03:13",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 03:04",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 03:03",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"3/07/18, 03:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"3/07/18, 03:01",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 23:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:44",-,-,File: MIG,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '1480' for the user with id '2684'.,web,192.168.99.3
+"2/07/18, 22:43",-,-,File: MIG,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '1480' for the user with id '2684'.,web,192.168.99.3
+"2/07/18, 22:43",-,-,File: MIG,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"2/07/18, 22:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:41",-,-,File: Case Study,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"2/07/18, 22:40",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:37",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 22:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:35",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 22:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:33",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin 'work proposal 2',web,192.168.99.3
+"2/07/18, 22:33",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'work proposal 2',web,192.168.99.3
+"2/07/18, 22:33",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'workproposal2jomana',web,192.168.99.3
+"2/07/18, 22:32",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,Add Submission,User added submission 'workproposal2jomana',web,192.168.99.3
+"2/07/18, 22:32",-,-,Turnitin Assignment 2: Case Study Work Proposal,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 22:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:29",-,-,File: Case Study,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '10077' for the user with id '2672'.,web,192.168.99.3
+"2/07/18, 22:28",-,-,File: Case Study,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '10077' for the user with id '2672'.,web,192.168.99.3
+"2/07/18, 22:18",-,-,File: Case Study,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"2/07/18, 22:15",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:07",-,-,File: MIG,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"2/07/18, 22:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:06",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 22:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 22:06",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 21:42",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 21:38",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 21:22",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 21:02",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'assignment1',web,192.168.99.3
+"2/07/18, 21:02",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'assignment1',web,192.168.99.3
+"2/07/18, 21:02",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 21:02",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 20:57",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Report',web,192.168.99.3
+"2/07/18, 20:26",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'Report',web,192.168.99.3
+"2/07/18, 20:26",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 20:26",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 20:26",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 20:01",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 20:00",-,-,File: Lecture 2,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"2/07/18, 17:37",-,-,File: Lecture 1,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"2/07/18, 17:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 17:37",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"2/07/18, 17:37",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"2/07/18, 17:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 11:47",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 11:47",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 11:23",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 11:23",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 10:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 10:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Assignment',web,192.168.99.3
+"2/07/18, 10:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'Assignment',web,192.168.99.3
+"2/07/18, 10:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"2/07/18, 01:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"2/07/18, 01:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"2/07/18, 01:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"2/07/18, 01:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 23:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 23:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 23:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:05",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:05",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:05",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 22:04",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:03",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '3114' for the user with id '2684'.,web,192.168.99.3
+"1/07/18, 22:03",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '3114' for the user with id '2684'.,web,192.168.99.3
+"1/07/18, 22:03",-,-,File: Lecture 1,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"1/07/18, 22:02",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 22:01",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin 'E-COMM',web,192.168.99.3
+"1/07/18, 22:01",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'E-COMM',web,192.168.99.3
+"1/07/18, 22:01",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 22:00",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 21:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 21:42",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'E-COMMERCE TECHNOLOGIES',web,192.168.99.3
+"1/07/18, 21:14",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'E-COMMERCE TECHNOLOGIES',web,192.168.99.3
+"1/07/18, 21:13",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 19:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 19:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 19:29",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 18:25",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"1/07/18, 18:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"1/07/18, 18:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 18:25",-,-,File: Assignment,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"1/07/18, 15:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 15:44",-,-,File: Assignment,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"1/07/18, 15:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 15:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 13:56",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 13:55",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3115' for the user with id '394'.,web,192.168.99.3
+"1/07/18, 13:55",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3115' for the user with id '394'.,web,192.168.99.3
+"1/07/18, 13:18",-,-,File: Lecture 2,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"1/07/18, 13:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 12:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 11:54",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 11:54",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 11:53",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"1/07/18, 10:15",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 10:15",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"1/07/18, 10:14",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"1/07/18, 10:14",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User resubmission sent to Turnitin 'Assignment(1)',web,192.168.99.3
+"1/07/18, 05:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'Assignment(1)',web,192.168.99.3
+"1/07/18, 05:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Assignment1',web,192.168.99.3
+"1/07/18, 05:29",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,Add Submission,User added submission 'Assignment1',web,192.168.99.3
+"1/07/18, 05:28",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"30/06/18, 19:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 19:28",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"30/06/18, 19:27",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 19:23",-,-,File: Student Declaration for Coursework,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1463'.,web,192.168.99.3
+"30/06/18, 19:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 19:12",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"30/06/18, 19:12",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 19:12",-,-,File: Case Study,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"30/06/18, 19:12",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"30/06/18, 11:12",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"30/06/18, 11:12",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3115' for the user with id '5104'.,web,192.168.99.3
+"30/06/18, 11:12",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '3115' for the user with id '5104'.,web,192.168.99.3
+"30/06/18, 10:29",-,-,File: Lecture 2,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"30/06/18, 10:22",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 10:19",-,-,File: Assignment,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"30/06/18, 10:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"30/06/18, 10:19",-,-,File: Assignment,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"30/06/18, 10:17",-,-,File: Case Study,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '10077' for the user with id '5104'.,web,192.168.99.3
+"30/06/18, 10:13",-,-,File: Case Study,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '10077' for the user with id '5104'.,web,192.168.99.3
+"30/06/18, 10:12",-,-,File: Case Study,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"30/06/18, 10:11",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,File: Student Declaration for Coursework,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1463'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1580' for the user with id '2672'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1580' for the user with id '2672'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,File: RESEARCH ETHICS AND BIO SAFETY APPROVAL FORM,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1580'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 22:29",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 22:29",-,-,File: Case Study,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '10077' for the user with id '3247'.,web,192.168.99.3
+"29/06/18, 22:28",-,-,File: Case Study,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '10077' for the user with id '3247'.,web,192.168.99.3
+"29/06/18, 22:28",-,-,File: Case Study,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"29/06/18, 22:27",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:26",-,-,File: Case Study,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '10077' for the user with id '394'.,web,192.168.99.3
+"29/06/18, 21:22",-,-,File: Case Study,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '10077' for the user with id '394'.,web,192.168.99.3
+"29/06/18, 21:21",-,-,File: Case Study,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '10077'.,web,192.168.99.3
+"29/06/18, 21:21",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:21",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:21",-,-,Turnitin Assignment 2: Assignment Final Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 21:20",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:20",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:20",-,-,File: MIG,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"29/06/18, 21:20",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:20",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 21:19",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 21:19",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 21:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 21:19",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:44",-,-,File: Assignment,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"29/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:43",-,-,File: Lecture 1,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"29/06/18, 20:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:10",-,-,File: Assignment,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"29/06/18, 20:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:08",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '1927' in the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:08",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"29/06/18, 20:08",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 17:27",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Proposal',web,192.168.99.3
+"29/06/18, 17:14",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'Proposal',web,192.168.99.3
+"29/06/18, 17:14",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 17:14",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 17:14",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Huda 16f15562',web,192.168.99.3
+"29/06/18, 17:14",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'Huda 16f15562',web,192.168.99.3
+"29/06/18, 17:13",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 17:13",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 17:13",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 14:18",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Work Proposal',web,192.168.99.3
+"29/06/18, 14:18",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'Work Proposal',web,192.168.99.3
+"29/06/18, 11:30",-,-,File: MIG,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"29/06/18, 11:11",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 11:11",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 11:07",-,-,File: Assignment,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"29/06/18, 11:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 11:07",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 11:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 11:07",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"29/06/18, 11:04",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"29/06/18, 08:47",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'Work Proposal',web,192.168.99.3
+"29/06/18, 08:47",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'Work Proposal',web,192.168.99.3
+"29/06/18, 00:02",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"28/06/18, 23:58",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 22:33",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'E-COMMERCE TECHNOLOGIES (COMP 0382)',web,192.168.99.3
+"28/06/18, 22:32",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'E-COMMERCE TECHNOLOGIES (COMP 0382)',web,192.168.99.3
+"28/06/18, 22:32",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"28/06/18, 15:21",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 15:20",-,-,File: MIG,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"28/06/18, 12:35",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 12:34",-,-,File: Assignment,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '5439' for the user with id '2684'.,web,192.168.99.3
+"28/06/18, 12:34",-,-,File: Assignment,System,Course activity completion updated,The user with id '2684' updated the completion state for the course module with id '5439' for the user with id '2684'.,web,192.168.99.3
+"28/06/18, 12:34",-,-,File: Assignment,File,Course module viewed,The user with id '2684' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"28/06/18, 11:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 11:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"28/06/18, 11:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 11:42",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"28/06/18, 09:48",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"28/06/18, 09:48",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"28/06/18, 06:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 12:31",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 12:31",-,-,File: Assignment,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"27/06/18, 12:31",-,-,File: Assignment,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"27/06/18, 12:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 12:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 11:45",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 11:44",-,-,File: Assignment,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '5439' for the user with id '5090'.,web,192.168.99.3
+"27/06/18, 11:44",-,-,File: Assignment,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '5439' for the user with id '5090'.,web,192.168.99.3
+"27/06/18, 10:52",-,-,File: Assignment,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"27/06/18, 10:52",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 10:50",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"27/06/18, 10:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 10:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 10:50",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"27/06/18, 10:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"27/06/18, 06:40",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User submission sent to Turnitin 'woek proposal 1',web,192.168.99.3
+"26/06/18, 23:36",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,Add Submission,User added submission 'woek proposal 1',web,192.168.99.3
+"26/06/18, 23:34",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"26/06/18, 23:31",-,-,File: MIG,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"26/06/18, 23:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 23:29",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"26/06/18, 23:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 23:28",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 23:28",-,-,File: MIG,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"26/06/18, 23:27",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 23:22",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 23:01",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"26/06/18, 22:54",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 19:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 19:02",-,-,File: Assignment,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"26/06/18, 17:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 17:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 17:59",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"26/06/18, 17:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 17:58",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 17:57",-,-,File: Assignment,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"26/06/18, 17:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 17:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,10.98.10.169
+"26/06/18, 12:56",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,10.98.10.169
+"26/06/18, 12:56",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,10.98.10.169
+"26/06/18, 12:55",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"26/06/18, 12:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"26/06/18, 12:51",-,-,File: Assignment,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '5439' for the user with id '5104'.,web,192.168.99.3
+"25/06/18, 20:56",-,-,File: Assignment,System,Course activity completion updated,The user with id '5104' updated the completion state for the course module with id '5439' for the user with id '5104'.,web,192.168.99.3
+"25/06/18, 20:56",-,-,File: Assignment,File,Course module viewed,The user with id '5104' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"25/06/18, 20:56",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5104' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,Turnitin Assignment 2: Work Proposal Submission,Turnitin Assignment 2,List Submissions,User viewed their submission inbox at course: 177,web,192.168.99.3
+"25/06/18, 20:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,File: Assignment,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,File: MIG,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"25/06/18, 20:55",-,-,File: Assignment,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '5439' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:55",-,-,File: Assignment,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '5439' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:55",-,-,File: Assignment,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '5439'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: Student Declaration for Coursework,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1463' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: Student Declaration for Coursework,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1463' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: Student Declaration for Coursework,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1463'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: CW Questionnaire,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1462' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: CW Questionnaire,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1462' for the user with id '2672'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: CW Questionnaire,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1462'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.227.177
+"25/06/18, 20:52",-,-,File: Assignment,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '5439' for the user with id '394'.,web,192.168.99.3
+"25/06/18, 20:52",-,-,File: Assignment,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '5439' for the user with id '394'.,web,192.168.99.3
+"25/06/18, 20:51",-,-,File: Assignment,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"25/06/18, 20:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:48",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: MIG,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1480' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: MIG,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '1480' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: MIG,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: Assignment,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '5439' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: Assignment,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '5439' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: Assignment,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '5439'.,web,192.168.99.3
+"25/06/18, 20:46",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3122' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:45",-,-,File: Lecture 4,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3122' for the user with id '3247'.,web,192.168.99.3
+"25/06/18, 20:45",-,-,File: Lecture 4,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3122'.,web,192.168.99.3
+"25/06/18, 20:45",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:44",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '3247' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"25/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:44",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:43",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:42",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:42",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '394' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"25/06/18, 20:41",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"25/06/18, 20:38",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '5090' viewed the 'realtimequiz' activity with course module id '5233'.,web,10.98.194.98
+"25/06/18, 20:08",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,10.98.194.98
+"25/06/18, 20:07",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '2684' viewed the 'realtimequiz' activity with course module id '5233'.,web,10.98.196.22
+"25/06/18, 14:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,10.98.196.22
+"25/06/18, 00:09",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '2672' viewed the 'realtimequiz' activity with course module id '5233'.,web,10.98.205.224
+"25/06/18, 00:08",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.205.224
+"24/06/18, 11:30",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '3247' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"24/06/18, 11:30",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"24/06/18, 09:26",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '394' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"24/06/18, 08:54",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"24/06/18, 08:54",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3116' for the user with id '394'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '3116' for the user with id '394'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,File: Lecture 3,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,Realtime quiz: Quiz,Realtime quiz,Course module viewed,The user with id '394' viewed the 'realtimequiz' activity with course module id '5233'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"24/06/18, 00:46",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3114' for the user with id '5090'.,web,192.168.99.3
+"24/06/18, 00:45",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3114' for the user with id '5090'.,web,192.168.99.3
+"24/06/18, 00:45",-,-,File: Lecture 1,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"23/06/18, 23:01",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"23/06/18, 23:00",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3115' for the user with id '5090'.,web,192.168.99.3
+"23/06/18, 22:56",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '3115' for the user with id '5090'.,web,192.168.99.3
+"23/06/18, 22:56",-,-,File: Lecture 2,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"23/06/18, 18:46",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"23/06/18, 18:46",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3116' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3116' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 3,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 2,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3115' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3115' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 2,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"23/06/18, 18:45",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3114' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 18:44",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3114' for the user with id '3247'.,web,192.168.99.3
+"23/06/18, 17:31",-,-,File: Lecture 1,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"23/06/18, 17:31",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"23/06/18, 17:30",-,-,File: MIG,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '1480' for the user with id '5090'.,web,192.168.99.3
+"23/06/18, 14:10",-,-,File: MIG,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '1480' for the user with id '5090'.,web,192.168.99.3
+"23/06/18, 14:10",-,-,File: MIG,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"23/06/18, 14:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"23/06/18, 14:09",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"22/06/18, 12:19",-,-,File: MIG,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1480' for the user with id '2672'.,web,192.168.99.3
+"22/06/18, 06:21",-,-,File: MIG,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1480' for the user with id '2672'.,web,192.168.99.3
+"22/06/18, 06:20",-,-,File: MIG,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"22/06/18, 00:21",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"22/06/18, 00:18",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.175.191
+"22/06/18, 00:17",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"21/06/18, 21:34",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"21/06/18, 21:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"21/06/18, 21:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.175.191
+"21/06/18, 21:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"21/06/18, 21:32",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"21/06/18, 20:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"21/06/18, 20:45",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"21/06/18, 20:40",-,-,Folder: Material,Folder,Course module viewed,The user with id '394' viewed the 'folder' activity with course module id '3161'.,web,10.98.171.22
+"21/06/18, 20:40",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"21/06/18, 00:59",-,-,Folder: Material,Folder,Course module viewed,The user with id '3247' viewed the 'folder' activity with course module id '3161'.,web,192.168.99.3
+"21/06/18, 00:26",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"21/06/18, 00:23",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"20/06/18, 22:41",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.97.15.137
+"20/06/18, 22:07",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 22:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '1905' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 22:00",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 22:00",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"20/06/18, 22:00",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 22:00",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '1927' in the course with id '177'.,web,192.168.99.3
+"20/06/18, 21:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.26.153
+"20/06/18, 21:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '394' in the course with id '177'.,web,10.98.26.153
+"20/06/18, 21:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 21:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 21:56",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '1905' viewed the course with id '177'.,web,10.98.165.38
+"20/06/18, 19:31",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '1905' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 19:31",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 18:48",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 18:47",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '2684' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"20/06/18, 18:47",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 14:58",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '1905' in the course with id '177'.,web,192.168.99.3
+"20/06/18, 14:06",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '1927' in the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '2672' in the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '3247' in the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:25",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"20/06/18, 10:24",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.159.89
+"20/06/18, 10:23",-,-,File: MIG,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '1480'.,web,10.98.159.89
+"20/06/18, 10:23",-,-,File: Lecture 1,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '1465'.,web,10.98.159.89
+"20/06/18, 10:22",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.159.89
+"20/06/18, 01:06",-,-,File: Lecture 1,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '1465'.,web,192.168.99.3
+"19/06/18, 13:58",-,-,File: MIG,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '1480' for the user with id '394'.,web,192.168.99.3
+"19/06/18, 13:58",-,-,File: MIG,System,Course activity completion updated,The user with id '394' updated the completion state for the course module with id '1480' for the user with id '394'.,web,192.168.99.3
+"19/06/18, 13:58",-,-,File: MIG,File,Course module viewed,The user with id '394' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"19/06/18, 13:58",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:52",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:52",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '3247' in the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '1905' in the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User profile viewed,The user with id '394' viewed the profile for the user with id '2684' in the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:45",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,User list viewed,The user with id '394' viewed the list of users in the course with id '177'.,web,192.168.99.3
+"19/06/18, 13:40",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"18/06/18, 21:03",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,192.168.99.3
+"18/06/18, 20:59",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"18/06/18, 20:50",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3116' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 20:50",-,-,File: Lecture 3,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3116' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 20:49",-,-,File: Lecture 3,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3116'.,web,192.168.99.3
+"18/06/18, 20:49",-,-,File: Lecture 2,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"18/06/18, 20:49",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3115' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 20:49",-,-,File: Lecture 2,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3115' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 20:46",-,-,File: Lecture 2,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3115'.,web,192.168.99.3
+"18/06/18, 20:46",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3114' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 20:43",-,-,File: Lecture 1,System,Course activity completion updated,The user with id '3247' updated the completion state for the course module with id '3114' for the user with id '3247'.,web,192.168.99.3
+"18/06/18, 19:58",-,-,File: Lecture 1,File,Course module viewed,The user with id '3247' viewed the 'resource' activity with course module id '3114'.,web,192.168.99.3
+"18/06/18, 19:57",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3
+"18/06/18, 12:37",-,-,File: MIG,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '1480' for the user with id '5090'.,web,192.168.99.3
+"17/06/18, 19:45",-,-,File: MIG,System,Course activity completion updated,The user with id '5090' updated the completion state for the course module with id '1480' for the user with id '5090'.,web,192.168.99.3
+"17/06/18, 19:34",-,-,File: MIG,File,Course module viewed,The user with id '5090' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"17/06/18, 19:33",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '5090' viewed the course with id '177'.,web,192.168.99.3
+"17/06/18, 16:41",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"17/06/18, 16:41",-,-,File: MIG,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1480' for the user with id '2672'.,web,192.168.99.3
+"17/06/18, 16:40",-,-,File: MIG,System,Course activity completion updated,The user with id '2672' updated the completion state for the course module with id '1480' for the user with id '2672'.,web,192.168.99.3
+"17/06/18, 16:40",-,-,File: MIG,File,Course module viewed,The user with id '2672' viewed the 'resource' activity with course module id '1480'.,web,192.168.99.3
+"17/06/18, 15:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,192.168.99.3
+"17/06/18, 15:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.175.191
+"17/06/18, 15:50",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"16/06/18, 19:51",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"16/06/18, 18:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '394' viewed the course with id '177'.,web,10.98.171.22
+"16/06/18, 18:37",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2672' viewed the course with id '177'.,web,10.98.175.191
+"16/06/18, 18:13",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '2684' viewed the course with id '177'.,web,192.168.99.3
+"16/06/18, 18:13",-,-,Course: E-Commerce Technologies(Spring 2018 - S18 COMP 0382),System,Course viewed,The user with id '3247' viewed the course with id '177'.,web,192.168.99.3

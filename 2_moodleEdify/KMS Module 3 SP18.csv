@@ -1,0 +1,9 @@
+ModuleCode,ModuleTitle,SessionName,RollNumber,ApplicantName,ApplicantMobile,CGPA,AttemptCount,Advisor,RemoteStudent,Probation,HighRisk,TermExceeded,AtRisk,AtRiskSSC,SpecialNeed,OtherModules,PrerequisiteModules,PlagiarismHistory,MalPracticeHistory
+Module 3,Course 3,Session-A,Student 181,xxxxxxxxxx,xxxxxxxx,2.5,1,Advisor 9,No,No,No,No,No,No,Not Applicable(Not Disabled),3,COMP 0406(57) [#1 F'17],No History,No History
+Module 3,Course 3,Session-A,Student 182,xxxxxxxxxx,xxxxxxxx,2.25,1,Advisor 5,No,No,No,No,No,No,Not Applicable(Not Disabled),4,COMP 0406(51) [#1 F'17],No History,Module 16
+Module 3,Course 3,Session-A,Student 183,xxxxxxxxxx,xxxxxxxx,2.25,1,Advisor 20,No,No,No,No,No,No,Not Applicable(Not Disabled),4,COMP 0406(0) [#1 S'18],No History,No History
+Module 3,Course 3,Session-A,Student 184,xxxxxxxxxx,xxxxxxxx,2.5,1,Advisor 19,No,No,No,No,No,No,Not Applicable(Not Disabled),4,COMP 0406(67) [#1 F'17],No History,No History
+Module 3,Course 3,Session-A,Student 185,xxxxxxxxxx,xxxxxxxx,2.75,1,Advisor 9,No,No,No,No,No,No,Not Applicable(Not Disabled),4,COMP 0406(67) [#1 S'17],No History,No History
+Module 3,Course 3,Session-A,Student 186,xxxxxxxxxx,xxxxxxxx,2,3,Advisor 24,No,No,Yes,No,No,No,Not Applicable(Not Disabled),0,COMP 0406(54) [#1 F'16],No History,No History
+Module 3,Course 3,Session-A,Student 187,xxxxxxxxxx,xxxxxxxx,3,1,Advisor 15,No,No,No,No,No,No,Not Applicable(Not Disabled),4,COMP 0406(81) [#1 S'17],No History,No History
+Module 3,Course 3,Session-A,Student 188,xxxxxxxxxx,xxxxxxxx,3.25,1,Advisor 12,No,No,No,No,No,No,Not Applicable(Not Disabled),3,COMP 0406(0) [#1 S'18],No History,No History

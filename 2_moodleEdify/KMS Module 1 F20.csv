@@ -1,0 +1,26 @@
+ModuleCode,ModuleTitle,SessionName,RollNumber,ApplicantName,ApplicantMobile,CGPA,AttemptCount,Advisor,RemoteStudent,Probation,HighRisk,TermExceeded,AtRisk,AtRiskSSC,SpecialNeed,OtherModules,PrerequisiteModules,PlagiarismHistory,MalPracticeHistory
+Module 1,Course 1,Session-A,Student 268,xxxxxxxxxx,xxxxxxxxxx,2.75,1,Advisor 18,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 269,xxxxxxxxxx,xxxxxxxxxx,3.5,1,Advisor 7,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 270,xxxxxxxxxx,xxxxxxxxxx,3.5,1,Advisor 10,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 271,xxxxxxxxxx,xxxxxxxxxx,4,1,Advisor 7,No,No,No,No,No,No,Not Applicable(Not Disabled),3,No,No History,No History
+Module 1,Course 1,Session-A,Student 272,xxxxxxxxxx,xxxxxxxxxx,2.25,1,Advisor 23,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 273,xxxxxxxxxx,xxxxxxxxxx,2.5,1,Advisor 9,No,No,No,No,No,No,Not Applicable(Not Disabled),4,No,No History,No History
+Module 1,Course 1,Session-A,Student 274,xxxxxxxxxx,xxxxxxxxxx,2.25,1,Advisor 6,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 275,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 1,No,No,No,No,No,No,Not Applicable(Not Disabled),4,No,No History,No History
+Module 1,Course 1,Session-A,Student 276,xxxxxxxxxx,xxxxxxxxxx,2.5,1,Advisor 21,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 277,xxxxxxxxxx,xxxxxxxxxx,3.25,1,Advisor 22,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 278,xxxxxxxxxx,xxxxxxxxxx,2,1,Advisor 12,No,No,No,No,No,No,Not Applicable(Not Disabled),4,No,Module 5,No History
+Module 1,Course 1,Session-A,Student 279,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 8,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 280,xxxxxxxxxx,xxxxxxxxxx,2,2,Advisor 8,No,No,No,Yes,Yes,No,Not Applicable(Not Disabled),1,No,No History,No History
+Module 1,Course 1,Session-A,Student 281,xxxxxxxxxx,xxxxxxxxxx,2.25,2,Advisor 4,No,No,No,No,Yes,No,Not Applicable(Not Disabled),1,No,Module 3,No History
+Module 1,Course 1,Session-A,Student 282,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 13,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 283,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 20,No,No,No,No,No,No,Not Applicable(Not Disabled),1,No,No History,No History
+Module 1,Course 1,Session-A,Student 284,xxxxxxxxxx,xxxxxxxxxx,2.25,1,Advisor 13,No,No,No,No,No,No,Not Applicable(Not Disabled),4,No,Module 11,No History
+Module 1,Course 1,Session-A,Student 285,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 24,No,No,No,No,No,No,Not Applicable(Not Disabled),3,No,Module 12,No History
+Module 1,Course 1,Session-A,Student 286,xxxxxxxxxx,xxxxxxxxxx,2.25,1,Advisor 14,No,No,No,No,No,No,Not Applicable(Not Disabled),2,No,No History,No History
+Module 1,Course 1,Session-A,Student 287,xxxxxxxxxx,xxxxxxxxxx,2.75,1,Advisor 16,No,No,No,No,No,No,Not Applicable(Not Disabled),3,No,No History,No History
+Module 1,Course 1,Session-A,Student 288,xxxxxxxxxx,xxxxxxxxxx,2,1,Advisor 15,No,No,Yes,No,Yes,No,Not Applicable(Not Disabled),4,No,Module 9,Module 15
+Module 1,Course 1,Session-A,Student 289,xxxxxxxxxx,xxxxxxxxxx,3.25,1,Advisor 25,No,No,No,No,No,No,Not Applicable(Not Disabled),4,No,No History,No History
+Module 1,Course 1,Session-A,Student 290,xxxxxxxxxx,xxxxxxxxxx,2.5,1,Advisor 23,No,No,No,No,No,No,Not Applicable(Not Disabled),1,No,No History,No History
+Module 1,Course 1,Session-A,Student 291,xxxxxxxxxx,xxxxxxxxxx,2.5,1,Advisor 14,No,No,No,No,No,No,Not Applicable(Not Disabled),1,No,Module 9,No History
+Module 1,Course 1,Session-A,Student 292,xxxxxxxxxx,xxxxxxxxxx,3,1,Advisor 20,No,No,No,No,Yes,No,Not Applicable(Not Disabled),2,No,No History,No History
