@@ -16,10 +16,21 @@ Demographics <- import("Demographics.xlsx")
 ```
 
 ```{r}
+Results %>% mutate(AchievingGroup = ifelse(ntile(Final_grade,2)==1,"Low achiever","High achiever")) -> Results
+```
+
+```{r}
 EventsSummary <- Events %>% group_by(user,Action) %>% 
   summarize(n=length(Action)) %>% 
   pivot_wider(names_from = "Action", names_prefix = "Frequency.", values_from = "n", values_fill = 0)
 ```
+```{r}
+EventsSummary %>% rowwise %>% mutate(Frequency.Total = sum(across(1:(ncol(.)-1)))) %>% ungroup -> EventsSummary
+```
+```{r}
+EventsSummary %>%  mutate(ActivityGroup = c("Low activity","Moderate activity","High activity")[ntile(Frequency.Total,3)]) -> EventsSummary
+```
+
 
 ```{r}
 EventsSummaryDemographics <- merge(Demographics, EventsSummary, by="user")
@@ -32,6 +43,12 @@ head(AllCombined)
 ```
 
 ```{r}
-export(AllCombined,"AllCombined.xlsx")
+AllCombined 
+```
+
+
+
+```{r}
+#export(AllCombined,"AllCombined.xlsx")
 ```
 
