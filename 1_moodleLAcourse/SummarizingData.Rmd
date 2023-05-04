@@ -49,6 +49,6 @@ AllCombined
 
 
 ```{r}
-#export(AllCombined,"AllCombined.xlsx")
+export(AllCombined,"AllCombined.xlsx")
 ```
 
